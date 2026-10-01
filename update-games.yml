@@ -1,0 +1,99 @@
+# .github/workflows/update-games.yml
+# GameVault 自动游戏数据更新管道
+# - 每天 UTC 02:00 自动运行（北京时间 10:00）
+# - 支持手动触发并指定月份
+# - 所有变更通过 Pull Request 提交，绝不直接修改 main 分支
+name: Update Games Data
+
+on:
+  schedule:
+    # 每天 UTC 02:17 运行（避开整点高峰）
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+    inputs:
+      month:
+        description: '目标月份 (YYYY-MM)，如 2026-10。留空则自动取下月。'
+        required: false
+        default: ''
+        type: string
+      max_results:
+        description: '最多发现游戏数量'
+        required: false
+        default: '50'
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-games:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Determine target month
+        id: month
+        run: |
+          if [ -n "${{ github.event.inputs.month }}" ]; then
+            echo "target=${{ github.event.inputs.month }}" >> "$GITHUB_OUTPUT"
+          else
+            TARGET=$(python3 -c "from datetime import date; t=date.today(); print(f'{t.year+1}-01' if t.month==12 else f'{t.year}-{t.month+1:02d}')")
+            echo "target=$TARGET" >> "$GITHUB_OUTPUT"
+          fi
+          echo "目标月份: ${{ steps.month.outputs.target }}"
+
+      - name: Run game update pipeline
+        id: pipeline
+        env:
+          RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}
+        run: |
+          MAX=${{ github.event.inputs.max_results || '50' }}
+          python scripts/update-games.py \
+            --month "${{ steps.month.outputs.target }}" \
+            --max "$MAX" \
+            --pr-summary /tmp/pr-summary.md
+          # 统计新增数量
+          if [ -f discovered-games.json ]; then
+            COUNT=$(python3 -c "import json; d=json.load(open('discovered-games.json')); print(len(d.get('games', [])))")
+          else
+            COUNT=0
+          fi
+          echo "new_count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "发现 $COUNT 款新游戏"
+
+      - name: Create Pull Request
+        if: steps.pipeline.outputs.new_count != '0'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: |
+            [auto] Update games for ${{ steps.month.outputs.target }}
+
+            New games: ${{ steps.pipeline.outputs.new_count }}
+            Source: RAWG + Steam auto-pipeline
+          branch: auto/update-games-${{ steps.month.outputs.target }}
+          delete-branch: true
+          title: "[auto] Update games for ${{ steps.month.outputs.target }}"
+          body-path: /tmp/pr-summary.md
+          labels: |
+            auto-update
+            games
+          reviewers: ""
+          draft: false
+
+      - name: No changes detected
+        if: steps.pipeline.outputs.new_count == '0'
+        run: echo "未发现新游戏，无需创建 PR。"
