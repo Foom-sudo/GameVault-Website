@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 update-games.py — GameVault 自动更新统一入口
-流程：discover → normalize → validate → discovered-games.json + 变更日志
-绝不直接修改正式 games.json，所有变更通过 PR 审核。
+流程：discover → normalize → validate → 追加到 games.json + discovered-games.json + 变更日志
+所有变更通过 Pull Request 审核，人工合并后网站自动更新。
 用法：python scripts/update-games.py --month 2026-10 [--max 50] [--dry-run]
 """
 import sys
@@ -117,7 +117,7 @@ def write_changelog(month, result, changes):
 
 
 def write_discovered(new_games, month):
-    """写入 discovered-games.json（候选数据，不直接进入正式库）。"""
+    """写入 discovered-games.json（候选数据记录，保留用于审计）。"""
     output = {
         "generatedAt": today_str(),
         "month": month,
@@ -126,7 +126,28 @@ def write_discovered(new_games, month):
         "games": new_games,
     }
     save_json(discovered_json_path(), output)
-    print(f"[候选] discovered-games.json 已写入（{len(new_games)} 款游戏，待人工审核）")
+    print(f"[候选] discovered-games.json 已写入（{len(new_games)} 款，保留作审计记录）")
+
+
+def merge_to_games_json(new_games, existing_games):
+    """
+    将新游戏追加到正式 games.json（重新分配连续 ID）。
+    PR 审核合并后网站即更新，无需手动合并。
+    返回更新后的完整游戏列表。
+    """
+    import re
+    merged = list(existing_games)
+    max_num = 0
+    for g in existing_games:
+        m = re.match(r"game-(\d+)", g.get("id", ""))
+        if m:
+            max_num = max(max_num, int(m.group(1)))
+    for i, g in enumerate(new_games):
+        g["id"] = f"game-{max_num + 1 + i:03d}"
+        merged.append(g)
+    save_json(games_json_path(), merged)
+    print(f"[正式库] games.json 已更新：{len(existing_games)} → {len(merged)} 款（新增 {len(new_games)}）")
+    return merged
 
 
 def generate_pr_summary(month, result, changes):
@@ -159,7 +180,8 @@ def generate_pr_summary(month, result, changes):
 
     lines.append("")
     lines.append("---")
-    lines.append("*此 PR 由 GameVault 自动更新管道生成。请审核后合并。*")
+    lines.append("**合并此 PR 后，games.json 即更新，Netlify 自动部署，网站直接生效。**")
+    lines.append("*此 PR 由 GameVault 自动更新管道生成。请审核新增游戏后合并。*")
     return "\n".join(lines)
 
 
@@ -228,9 +250,11 @@ def main():
     print("\n--- 阶段 4/4: 变更检测与输出 ---")
     changes = detect_changes(new_games, existing)
 
-    # 6. 输出
+    # 6. 输出：候选记录 + 正式库更新 + 变更日志
     if not args.dry_run:
         write_discovered(new_games, args.month)
+        if new_games:
+            merge_to_games_json(new_games, existing)
         write_changelog(args.month, result, changes)
     else:
         print("[dry-run] 跳过文件写入")
@@ -245,8 +269,8 @@ def main():
         print("\n" + pr_summary)
 
     print("\n" + "=" * 60)
-    print(f"✅ 流程完成：新增 {len(new_games)} 款候选游戏，待人工审核后合并")
-    print("   正式 games.json 未被修改。")
+    print(f"✅ 流程完成：新增 {len(new_games)} 款游戏已写入 games.json")
+    print("   所有变更通过 Pull Request 提交，人工审核合并后网站自动更新。")
     print("=" * 60)
 
 
