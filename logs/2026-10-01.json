@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-01",
+  "month": "2026-10",
+  "stats": {
+    "candidates_total": 21,
+    "filtered_out": 0,
+    "duplicates": 0,
+    "final_new_games": 21
+  },
+  "added": [
+    {
+      "id": "game-053",
+      "title": "End of Abyss",
+      "releaseDate": "2026-10-01",
+      "steamAppId": null
+    },
+    {
+      "id": "game-054",
+      "title": "Ace Combat 8: Wings of Theve",
+      "releaseDate": "2026-10-02",
+      "steamAppId": null
+    },
+    {
+      "id": "game-055",
+      "title": "Gears of War: E-Day",
+      "releaseDate": "2026-10-06",
+      "steamAppId": null
+    },
+    {
+      "id": "game-056",
+      "title": "Star Wars: Galactic Racer",
+      "releaseDate": "2026-10-06",
+      "steamAppId": null
+    },
+    {
+      "id": "game-057",
+      "title": "Clive Barker's Hellraiser: Revival",
+      "releaseDate": "2026-10-08",
+      "steamAppId": null
+    },
+    {
+      "id": "game-058",
+      "title": "Battleplan",
+      "releaseDate": "2026-10-11",
+      "steamAppId": null
+    },
+    {
+      "id": "game-059",
+      "title": "Valor Mortis",
+      "releaseDate": "2026-10-13",
+      "steamAppId": null
+    },
+    {
+      "id": "game-060",
+      "title": "FIRE AND ASHES",
+      "releaseDate": "2026-10-13",
+      "steamAppId": null
+    },
+    {
+      "id": "game-061",
+      "title": "Warhammer 40,000: Boltgun 2",
+      "releaseDate": "2026-10-14",
+      "steamAppId": null
+    },
+    {
+      "id": "game-062",
+      "title": "Enshrouded",
+      "releaseDate": "2026-10-15",
+      "steamAppId": null
+    },
+    {
+      "id": "game-063",
+      "title": "Castlevania: Belmont's Curse",
+      "releaseDate": "2026-10-15",
+      "steamAppId": null
+    },
+    {
+      "id": "game-064",
+      "title": "Tenebris Somnia",
+      "releaseDate": "2026-10-16",
+      "steamAppId": null
+    },
+    {
+      "id": "game-065",
+      "title": "Mycopunk",
+      "releaseDate": "2026-10-20",
+      "steamAppId": null
+    },
+    {
+      "id": "game-066",
+      "title": "Stupid Never Dies",
+      "releaseDate": "2026-10-21",
+      "steamAppId": null
+    },
+    {
+      "id": "game-067",
+      "title": "Final Fantasy Resonance",
+      "releaseDate": "2026-10-22",
+      "steamAppId": null
+    },
+    {
+      "id": "game-068",
+      "title": "Ecstatica",
+      "releaseDate": "2026-10-25",
+      "steamAppId": null
+    },
+    {
+      "id": "game-069",
+      "title": "Remothered: Red Nun's Legacy",
+      "releaseDate": "2026-10-26",
+      "steamAppId": null
+    },
+    {
+      "id": "game-070",
+      "title": "EmberVille",
+      "releaseDate": "2026-10-26",
+      "steamAppId": null
+    },
+    {
+      "id": "game-071",
+      "title": "Crimson Desert: Charting the Unknown",
+      "releaseDate": "2026-10-29",
+      "steamAppId": null
+    },
+    {
+      "id": "game-072",
+      "title": "Tavern Farkle GB",
+      "releaseDate": "2026-10-29",
+      "steamAppId": null
+    },
+    {
+      "id": "game-073",
+      "title": "Phantom Blade Zero",
+      "releaseDate": "2026-10-29",
+      "steamAppId": null
+    }
+  ],
+  "removed": [],
+  "duplicates": [],
+  "releaseDateChanges": [],
+  "statusChanges": [],
+  "potentialConflicts": []
+}
