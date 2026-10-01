@@ -1,0 +1,1475 @@
+[
+  {
+    "id": "game-001",
+    "title": "黑神话：悟空",
+    "developer": "游戏科学 Game Science",
+    "publisher": "游戏科学",
+    "releaseDate": "2024-08-20",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "genres": [
+      "动作角色扮演"
+    ],
+    "tags": [
+      "魂类",
+      "开放世界",
+      "神话",
+      "单人"
+    ],
+    "status": "released",
+    "cover": "images/game-001.jpg",
+    "coverColors": [
+      "#450a0a",
+      "#dc2626"
+    ],
+    "description": "游戏科学耗时多年打造的西游题材动作角色扮演游戏。以虚幻引擎5呈现壮丽的东方神话世界，玩家扮演天命人，踏上追寻真相与自我的征途。",
+    "website": ""
+  },
+  {
+    "id": "game-002",
+    "title": "艾尔登法环",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco",
+    "releaseDate": "2022-02-25",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "genres": [
+      "动作角色扮演"
+    ],
+    "tags": [
+      "魂类",
+      "开放世界",
+      "黑暗奇幻",
+      "硬核"
+    ],
+    "status": "released",
+    "cover": "images/game-002.jpg",
+    "coverColors": [
+      "#1c1917",
+      "#a16207"
+    ],
+    "description": "FromSoftware 与乔治·R·R·马丁联手打造的开放世界魂类巨作。在交界地中探索广袤国度，挑战半神Boss，成为艾尔登之王。",
+    "website": ""
+  },
+  {
+    "id": "game-003",
+    "title": "博德之门3",
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "releaseDate": "2023-08-03",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "genres": [
+      "角色扮演"
+    ],
+    "tags": [
+      "回合制",
+      "DND",
+      "剧情丰富",
+      "联机"
+    ],
+    "status": "released",
+    "cover": "images/game-003.jpg",
+    "coverColors": [
+      "#14532d",
+      "#16a34a"
+    ],
+    "description": "基于龙与地下城5E规则的史诗级CRPG。自由度极高的回合制战斗与分支剧情，可单人游玩或与四名好友联机冒险。",
+    "website": ""
+  },
+  {
+    "id": "game-004",
+    "title": "赛博朋克2077",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "releaseDate": "2020-12-10",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "genres": [
+      "动作角色扮演"
+    ],
+    "tags": [
+      "开放世界",
+      "赛博朋克",
+      "剧情",
+      "FPS"
+    ],
+    "status": "released",
+    "cover": "images/game-004.jpg",
+    "coverColors": [
+      "#3b0764",
+      "#db2777"
+    ],
+    "description": "在夜之城这座权力与魅力至上的都市中，扮演雇佣兵V追寻永生的关键植入体。2.0更新与往日之影DLC让它重获新生。",
+    "website": ""
+  },
+  {
+    "id": "game-005",
+    "title": "最终幻想7 重生",
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "releaseDate": "2025-01-23",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "genres": [
+      "角色扮演"
+    ],
+    "tags": [
+      "回合制",
+      "日式RPG",
+      "剧情",
+      "经典重制"
+    ],
+    "status": "released",
+    "cover": "images/game-005.jpg",
+    "coverColors": [
+      "#0c4a6e",
+      "#0ea5e9"
+    ],
+    "description": "最终幻想7重制版第二部。克劳德与伙伴们离开米德加，踏上广阔的星球展开冒险，ATB战斗系统更加进化。",
+    "website": ""
+  },
+  {
+    "id": "game-006",
+    "title": "怪物猎人：荒野",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "releaseDate": "2025-02-28",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "genres": [
+      "动作角色扮演"
+    ],
+    "tags": [
+      "共斗",
+      "动作",
+      "联机",
+      "开放世界"
+    ],
+    "status": "released",
+    "cover": "images/game-006.jpg",
+    "coverColors": [
+      "#164e63",
+      "#06b6d4"
+    ],
+    "description": "怪物猎人系列20周年纪念作。全新引擎打造无缝连接的广阔生态，14种武器各具特色，支持最多4人联机狩猎。",
+    "website": ""
+  },
+  {
+    "id": "game-007",
+    "title": "心灵杀手2",
+    "developer": "Remedy Entertainment",
+    "publisher": "Epic Games Publishing",
+    "releaseDate": "2023-10-27",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "genres": [
+      "动作冒险"
+    ],
+    "tags": [
+      "惊悚",
+      "剧情",
+      "超自然",
+      "第三人称"
+    ],
+    "status": "released",
+    "cover": "images/game-007.jpg",
+    "coverColors": [
+      "#052e16",
+      "#16a34a"
+    ],
+    "description": "Remedy招牌超自然惊悚续作。作家艾伦·韦克与探员萨贾·安德森双线交织，在黑暗与光明的对抗中揭开真相。",
+    "website": ""
+  },
+  {
+    "id": "game-008",
+    "title": "龙之信条2",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "releaseDate": "2024-03-22",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "genres": [
+      "动作角色扮演"
+    ],
+    "tags": [
+      "开放世界",
+      "动作",
+      "随从系统",
+      "奇幻"
+    ],
+    "status": "released",
+    "cover": "images/game-008.jpg",
+    "coverColors": [
+      "#431407",
+      "#ea580c"
+    ],
+    "description": "卡普空经典动作RPG续作，RE引擎打造。独创的随从（Pawn）系统与高自由度职业战斗，在两个王国的命运纠葛中觉醒为觉者。",
+    "website": ""
+  },
+  {
+    "id": "game-009",
+    "title": "星空",
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "releaseDate": "2023-09-06",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "genres": [
+      "角色扮演"
+    ],
+    "tags": [
+      "太空",
+      "开放世界",
+      "建造",
+      "探索"
+    ],
+    "status": "released",
+    "cover": "images/game-009.jpg",
+    "coverColors": [
+      "#0c1a2e",
+      "#38bdf8"
+    ],
+    "description": "Bethesda二十五年来首个全新IP。在超过1000颗星球间探索的太空RPG，自由建造飞船、招募船员、揭开人类最大的秘密。",
+    "website": ""
+  },
+  {
+    "id": "game-010",
+    "title": "匹诺曹的谎言",
+    "developer": "Round8 Studio",
+    "publisher": "NEOWIZ",
+    "releaseDate": "2023-09-19",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "genres": [
+      "动作角色扮演"
+    ],
+    "tags": [
+      "魂类",
+      "黑暗童话",
+      "动作",
+      "剧情分支"
+    ],
+    "status": "released",
+    "cover": "images/game-010.jpg",
+    "coverColors": [
+      "#1c1917",
+      "#eab308"
+    ],
+    "description": "以匹诺曹童话为蓝本的黑暗魂类动作游戏。在崩溃的城市克拉特中游历，谎言与抉择将改变结局，武器组装系统深度十足。",
+    "website": ""
+  },
+  {
+    "id": "game-011",
+    "title": "影之刃零",
+    "developer": "S-GAME Studio",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-29",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作"
+    ],
+    "tags": [
+      "动作",
+      "爽快",
+      "连招",
+      "虚幻5"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-011.jpg",
+    "coverColors": [
+      "#7c2d12",
+      "#dc2626"
+    ],
+    "description": "灵游坊自主研发，虚幻5引擎打造的暗黑武侠动作冒险游戏。化身心脏遭受重创的剑客，在仅余六十六天的生命里逃亡于刀光剑影之间，粉碎笼罩武林的惊天阴谋。",
+    "website": ""
+  },
+  {
+    "id": "game-012",
+    "title": "使命召唤23：现代战争4",
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "releaseDate": "2026-10-23",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "射击"
+    ],
+    "tags": [
+      "射击",
+      "枪械",
+      "战争",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-012.jpg",
+    "coverColors": [
+      "#1e293b",
+      "#475569"
+    ],
+    "description": "将系列推向更加黑暗和危险的全新维度，种种连锁后果与局势升级，让长线剧情走向极具冲击力和感性的爆发临界点。",
+    "website": ""
+  },
+  {
+    "id": "game-013",
+    "title": "皇牌空战8：希孚之翼",
+    "developer": "Bandai Namco Aces",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-02",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "射击"
+    ],
+    "tags": [
+      "射击",
+      "枪械",
+      "战争",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-013.jpg",
+    "coverColors": [
+      "#0c4a6e",
+      "#0284c7"
+    ],
+    "description": "化身为王牌驾驶员，在追求真实天空的虚空间中驾驶战斗机自由翱翔，依据自身判断将敌人接二连三击坠，体验打破艰困局面的成就感。",
+    "website": ""
+  },
+  {
+    "id": "game-014",
+    "title": "不朽遗志",
+    "developer": "One More Level",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-14",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作"
+    ],
+    "tags": [
+      "动作",
+      "爽快",
+      "连招",
+      "惊悚"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-014.png",
+    "coverColors": [
+      "#3b0764",
+      "#7c3aed"
+    ],
+    "description": "出自《Ghostrunner》创作者之手的第一人称魂类动作游戏。起死回生化身拿破仑军队前士兵，掌握超自然力量，对战恐怖怪物，揭露威胁全人类的阴谋。",
+    "website": ""
+  },
+  {
+    "id": "game-015",
+    "title": "沉星之序",
+    "developer": "Thekla, Inc.",
+    "publisher": "Arc Games",
+    "releaseDate": "2026-10-09",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "冒险"
+    ],
+    "tags": [
+      "冒险",
+      "探索",
+      "剧情",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-015.png",
+    "coverColors": [
+      "#1e3a8a",
+      "#3b82f6"
+    ],
+    "description": "踏入魔法与谜团交织的冒险世界。破解超过1000个精心设计、相互关联的谜题，邂逅独特可操控英雄，掌握不断演变的玩法机制，揭开宏大谜局。",
+    "website": ""
+  },
+  {
+    "id": "game-016",
+    "title": "黑森林迷踪",
+    "developer": "Avantgarden",
+    "publisher": "505 Pulse",
+    "releaseDate": "2026-10-14",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "冒险"
+    ],
+    "tags": [
+      "冒险",
+      "探索",
+      "剧情",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-016.png",
+    "coverColors": [
+      "#14532d",
+      "#16a34a"
+    ],
+    "description": "第一人称生存类冒险游戏。扮演前往芬兰密林拜访祖父的安娜，在人去楼空的木屋搜寻中，渐渐走入北欧神话的奇妙领域。",
+    "website": ""
+  },
+  {
+    "id": "game-017",
+    "title": "永恒之塔2",
+    "developer": "NCsoft",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-05",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "角色扮演"
+    ],
+    "tags": [
+      "RPG",
+      "养成",
+      "剧情",
+      "虚幻5"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-017.jpg",
+    "coverColors": [
+      "#581c87",
+      "#a855f7"
+    ],
+    "description": "采用虚幻5引擎打造，背景设定在前作战争结束900年后。新增时空皲裂系统与升级版飞翔功能，探索区域扩展至天空、水下及空中神殿。",
+    "website": ""
+  },
+  {
+    "id": "game-018",
+    "title": "Am I Nima",
+    "developer": "HO! Games",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-09",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "冒险"
+    ],
+    "tags": [
+      "冒险",
+      "探索",
+      "剧情",
+      "惊悚"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-018.png",
+    "coverColors": [
+      "#4c1d95",
+      "#8b5cf6"
+    ],
+    "description": "你不记得自己是谁。被母亲锁在昏暗地下室中，需要通过多道考验、调查似曾相识的房间，进入妮玛支离破碎的精神世界寻找真相。",
+    "website": ""
+  },
+  {
+    "id": "game-019",
+    "title": "Nightmare Circus",
+    "developer": "FairPlay Studios",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-07",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作"
+    ],
+    "tags": [
+      "动作",
+      "爽快",
+      "连招",
+      "惊悚"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-019.png",
+    "coverColors": [
+      "#7f1d1d",
+      "#ef4444"
+    ],
+    "description": "惊险刺激的噩梦缠绕冒险游戏。作为一名木偶依靠牵引线与操纵杆战斗，利用丰富工具和技能消灭敌人、操纵行动、解开复杂谜题。",
+    "website": ""
+  },
+  {
+    "id": "game-020",
+    "title": "奇境重生",
+    "developer": "Monoclove",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-14",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "角色扮演"
+    ],
+    "tags": [
+      "RPG",
+      "养成",
+      "剧情",
+      "回合制"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-020.png",
+    "coverColors": [
+      "#064e3b",
+      "#10b981"
+    ],
+    "description": "战术性回合制战斗，控制多达5个角色通过战略性定位击败敌人。独特技能转换系统，收集敌人基因进行角色定制。",
+    "website": ""
+  },
+  {
+    "id": "game-021",
+    "title": "剪纸村",
+    "developer": "DevilishGames",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-14",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "益智"
+    ],
+    "tags": [
+      "解谜",
+      "休闲",
+      "益智",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-021.png",
+    "coverColors": [
+      "#92400e",
+      "#f59e0b"
+    ],
+    "description": "温馨的建造与手工制作游戏，拥有关于村庄废弃的氛围叙事。通过建筑和装饰图纸自定义你受中世纪启发的村庄。",
+    "website": ""
+  },
+  {
+    "id": "game-022",
+    "title": "ONE PIECE 海洋盛宴",
+    "developer": "Kairosoft",
+    "publisher": "Bandai Namco",
+    "releaseDate": "2026-10-23",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "模拟"
+    ],
+    "tags": [
+      "模拟",
+      "经营",
+      "休闲",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-022.jpg",
+    "coverColors": [
+      "#1e40af",
+      "#60a5fa"
+    ],
+    "description": "跟草帽一伙一起经营芭拉蒂2号店！收集食材开发新菜单，随心所欲装潢店内，随着餐厅水平提升，那个角色也有机会变成常客。",
+    "website": ""
+  },
+  {
+    "id": "game-023",
+    "title": "泊车之都",
+    "developer": "Hilkojj",
+    "publisher": "MicroProse",
+    "releaseDate": "2026-10-09",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "策略"
+    ],
+    "tags": [
+      "策略",
+      "战棋",
+      "经营",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-023.png",
+    "coverColors": [
+      "#334155",
+      "#64748b"
+    ],
+    "description": "设计精妙停车场说服市民这对他们必不可少，传播汽车宣传广告，智胜反汽油抗议者，把安静社区变成你的泊车帝国。",
+    "website": ""
+  },
+  {
+    "id": "game-024",
+    "title": "结晶姬的迷宫",
+    "developer": "move the hearts",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-15",
+    "releaseDateTBD": true,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "冒险"
+    ],
+    "tags": [
+      "冒险",
+      "探索",
+      "剧情",
+      "惊悚"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-024.png",
+    "coverColors": [
+      "#831843",
+      "#ec4899"
+    ],
+    "description": "单人恐怖冒险游戏。研究所爆炸让少女晞羽坠入地下迷宫，围绕看不见的谜题打造的高度紧张感，逐步揭开极秘计划的黑暗真相。",
+    "website": ""
+  },
+  {
+    "id": "game-025",
+    "title": "干洗店模拟器",
+    "developer": "Rogue Duck Interactive",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-31",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "益智"
+    ],
+    "tags": [
+      "解谜",
+      "休闲",
+      "益智",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-025.png",
+    "coverColors": [
+      "#0e7490",
+      "#22d3ee"
+    ],
+    "description": "在《分拣员模拟器》《失物招领模拟器》之后，洗衣专家堂堂登场！接单、洗衣、熨烫一手全包，成为顾客最信赖的干洗店主理人。",
+    "website": ""
+  },
+  {
+    "id": "game-026",
+    "title": "Death Rabbit",
+    "developer": "Rabbit Studios",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-23",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作"
+    ],
+    "tags": [
+      "动作",
+      "爽快",
+      "连招",
+      "惊悚"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-026.png",
+    "coverColors": [
+      "#450a0a",
+      "#b91c1c"
+    ],
+    "description": "不夜城发生险恶转折，MTA黑暗隧道成为可怕疫情中心。作为Alisa穿越充满危险的地下迷宫，每个角落都潜伏着难以形容的恐怖。",
+    "website": ""
+  },
+  {
+    "id": "game-027",
+    "title": "Nowhere",
+    "developer": "Midnight Forge LTD",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-01",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "冒险"
+    ],
+    "tags": [
+      "冒险",
+      "探索",
+      "剧情",
+      "惊悚"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-027.png",
+    "coverColors": [
+      "#172554",
+      "#3b82f6"
+    ],
+    "description": "第一人称故事驱动的恐怖悬疑游戏。作为私家侦探调查琥珀森林的失踪模式，很快发现没有回头路，必须揭开神秘面纱并找到出路。",
+    "website": ""
+  },
+  {
+    "id": "game-028",
+    "title": "波波和噩梦之箱",
+    "developer": "Polycast Labs",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-31",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "冒险"
+    ],
+    "tags": [
+      "冒险",
+      "探索",
+      "剧情",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-028.png",
+    "coverColors": [
+      "#713f12",
+      "#eab308"
+    ],
+    "description": "经典3D平台游戏的自由探索与马戏团遇上万圣节氛围融合。扮演笨手笨脚却心地善良的小丑波波，在腐化梦境世界中跳跃滑翔解开谜题。",
+    "website": ""
+  },
+  {
+    "id": "game-029",
+    "title": "HYPERFIGHT 2",
+    "developer": "studio joh",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-13",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作"
+    ],
+    "tags": [
+      "动作",
+      "爽快",
+      "连招",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-029.png",
+    "coverColors": [
+      "#701a75",
+      "#d946ef"
+    ],
+    "description": "快节奏格斗游戏续作，无格挡机制，独特计量系统直接关联战斗节奏，高强度对抗体验。",
+    "website": ""
+  },
+  {
+    "id": "game-030",
+    "title": "King in the Mountain",
+    "developer": "Milo Panta",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-31",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "益智"
+    ],
+    "tags": [
+      "解谜",
+      "休闲",
+      "益智",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-030.png",
+    "coverColors": [
+      "#422006",
+      "#d97706"
+    ],
+    "description": "平静的策略增量游戏，讲述流亡国王通过采矿远征重建失落王国。规划矿井，重建山中大厅，看着矮人自行凿穿大地。",
+    "website": ""
+  },
+  {
+    "id": "game-031",
+    "title": "Demon God Story",
+    "developer": "XY GAME",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-12",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作"
+    ],
+    "tags": [
+      "动作",
+      "爽快",
+      "连招",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-031.png",
+    "coverColors": [
+      "#881337",
+      "#f43f5e"
+    ],
+    "description": "HD-2D动作射击游戏。为解决骸骨魔域腐化粒子扩张和骸骨之神野心，主角踏上讨伐之路，历经山川沙漠古迹城堡，收集魔法守护大陆。",
+    "website": ""
+  },
+  {
+    "id": "game-032",
+    "title": "绿洲行迹",
+    "developer": "透明板",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-01",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "角色扮演"
+    ],
+    "tags": [
+      "RPG",
+      "养成",
+      "剧情",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-032.png",
+    "coverColors": [
+      "#78350f",
+      "#f97316"
+    ],
+    "description": "未来全球性灾难后荒漠化世界，商队成为物资交换纽带。身为副队长接管六人小队，肩负生存资源管理与人员协调重任。",
+    "website": ""
+  },
+  {
+    "id": "game-033",
+    "title": "Rogue Jungle",
+    "developer": "Zoroarts",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-30",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作"
+    ],
+    "tags": [
+      "动作",
+      "爽快",
+      "连招",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-033.png",
+    "coverColors": [
+      "#14532d",
+      "#22c55e"
+    ],
+    "description": "动作Roguelike，战斗和探索程序生成的丛林。旅程中找到新武器，每次跑步结束时面对Boss Enemy！",
+    "website": ""
+  },
+  {
+    "id": "game-034",
+    "title": "Synapse",
+    "developer": "SB Games",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-15",
+    "releaseDateTBD": true,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "冒险"
+    ],
+    "tags": [
+      "冒险",
+      "探索",
+      "剧情",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-034.png",
+    "coverColors": [
+      "#0f172a",
+      "#334155"
+    ],
+    "description": "在Synapse City，情绪分数决定一切。你曾是系统工程师深知运作原理，但这不代表你知道如何在其中活下去。信错了人，一切都将崩塌。",
+    "website": ""
+  },
+  {
+    "id": "game-035",
+    "title": "VHS World '89",
+    "developer": "Indovers Studio",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-16",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "益智"
+    ],
+    "tags": [
+      "解谜",
+      "休闲",
+      "益智",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-035.png",
+    "coverColors": [
+      "#7c2d12",
+      "#fb923c"
+    ],
+    "description": "温馨的第一人称整理模拟，场景设定在1989年录像带出租店。3360盒VHS散落一地，没有计时没有压力，只有物归原位的静谧满足感。",
+    "website": ""
+  },
+  {
+    "id": "game-036",
+    "title": "Radiotext",
+    "developer": "Alp Arslan",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-01",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "冒险"
+    ],
+    "tags": [
+      "冒险",
+      "探索",
+      "剧情",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-036.png",
+    "coverColors": [
+      "#1e3a8a",
+      "#818cf8"
+    ],
+    "description": "发生在不久将来的互动故事，在没有干扰的通信需要无线电波的世界中展开。",
+    "website": ""
+  },
+  {
+    "id": "game-037",
+    "title": "天降灾异：幸存者",
+    "developer": "DeadPixel",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-28",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作"
+    ],
+    "tags": [
+      "动作",
+      "爽快",
+      "连招",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-037.png",
+    "coverColors": [
+      "#7f1d1d",
+      "#f87171"
+    ],
+    "description": "时间正在流逝，地球正在崩裂。高低差就是你最强的武器，穿梭于不断崩塌的关卡，在平台跳跃与弹幕地狱夹缝中求生。",
+    "website": ""
+  },
+  {
+    "id": "game-038",
+    "title": "灵魂小夜曲",
+    "developer": "SpiritOfWolf",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-15",
+    "releaseDateTBD": true,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "模拟"
+    ],
+    "tags": [
+      "模拟",
+      "经营",
+      "休闲",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-038.png",
+    "coverColors": [
+      "#831843",
+      "#f472b6"
+    ],
+    "description": "经典浪漫主义文法的剧情导向型视觉小说。悠扬钢琴旋律与温馨美术风格相得益彰，为疲惫日常献上宛如童话般的时光。",
+    "website": ""
+  },
+  {
+    "id": "game-039",
+    "title": "大英博士物语",
+    "developer": "Mouse Mouse",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-15",
+    "releaseDateTBD": true,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "益智"
+    ],
+    "tags": [
+      "解谜",
+      "休闲",
+      "益智",
+      "回合制"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-039.png",
+    "coverColors": [
+      "#365314",
+      "#84cc16"
+    ],
+    "description": "关于在英国熬完博士的像素风生活模拟。安排时间、写论文、钓鱼、谈恋爱，答辩变成回合制卡牌对局，用研究攒出一套牌组。",
+    "website": ""
+  },
+  {
+    "id": "game-040",
+    "title": "Gray Planet",
+    "developer": "Paston Studios",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-30",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "冒险"
+    ],
+    "tags": [
+      "冒险",
+      "探索",
+      "剧情",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-040.png",
+    "coverColors": [
+      "#374151",
+      "#9ca3af"
+    ],
+    "description": "几个世纪后人类开拓多个星球。你是穿梭各星球的佣兵兼旅行者，意外迫降在被纳米机器占领的星球，展开探索收集资源弄清真相。",
+    "website": ""
+  },
+  {
+    "id": "game-041",
+    "title": "Abracademia 魔咒学院",
+    "developer": "Seele Games",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-13",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "冒险"
+    ],
+    "tags": [
+      "冒险",
+      "探索",
+      "剧情",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-041.jpg",
+    "coverColors": [
+      "#4c1d95",
+      "#c084fc"
+    ],
+    "description": "温馨又放松的魔法师放置生活模拟游戏，陪伴你工作或游戏时光，让屏幕上的小世界成为你的好伙伴。",
+    "website": ""
+  },
+  {
+    "id": "game-042",
+    "title": "Primal One",
+    "developer": "Mr. Maheros",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-27",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作"
+    ],
+    "tags": [
+      "动作",
+      "爽快",
+      "连招",
+      "惊悚"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-042.png",
+    "coverColors": [
+      "#431407",
+      "#ea580c"
+    ],
+    "description": "第一人称恐龙生存恐怖游戏，故事发生在白垩纪时期的设施中。躲避追捕你的恐龙，寻找返回现代的方法或与其他幸存者取得联系。",
+    "website": ""
+  },
+  {
+    "id": "game-043",
+    "title": "最后一层",
+    "developer": "Bytale Games",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-27",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "冒险"
+    ],
+    "tags": [
+      "冒险",
+      "探索",
+      "剧情",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-043.png",
+    "coverColors": [
+      "#0f172a",
+      "#475569"
+    ],
+    "description": "被困在循环的电梯系统中，每一层都通向同一条走廊但总有哪里不对劲。观察判断选择：正常就上楼，不对就下楼。一次失误回到起点。",
+    "website": ""
+  },
+  {
+    "id": "game-044",
+    "title": "Raccoon Valley Tycoon",
+    "developer": "Dumivid",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-01",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "益智"
+    ],
+    "tags": [
+      "解谜",
+      "休闲",
+      "益智",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-044.png",
+    "coverColors": [
+      "#713f12",
+      "#a16207"
+    ],
+    "description": "小小的浣熊村庄被完全遗弃。挖掘宝藏、修复一切，把这里变成有史以来最可爱的小镇。相信我，一定会超棒的。",
+    "website": ""
+  },
+  {
+    "id": "game-045",
+    "title": "Deckrage",
+    "developer": "Bansy Games",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-09",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "角色扮演"
+    ],
+    "tags": [
+      "RPG",
+      "养成",
+      "剧情",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-045.png",
+    "coverColors": [
+      "#1e1b4b",
+      "#6366f1"
+    ],
+    "description": "黑暗单人卡牌战术RPG，组建四人英雄队伍，规划危险远征，在残酷战斗中生存下来。",
+    "website": ""
+  },
+  {
+    "id": "game-046",
+    "title": "舰队激斗：郑成功",
+    "developer": "忠烈祠",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-28",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "益智"
+    ],
+    "tags": [
+      "解谜",
+      "休闲",
+      "益智",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-046.png",
+    "coverColors": [
+      "#1e3a8a",
+      "#38bdf8"
+    ],
+    "description": "塔防+自走棋+海战。从风帆时代传奇船长中挑选指挥官，指挥10+艘帆船摆阵型侧舷开火，每局随机获得船只搭配阵容。",
+    "website": ""
+  },
+  {
+    "id": "game-047",
+    "title": "Airport Madness Evolution",
+    "developer": "Big Fat Simulations",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-14",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "模拟"
+    ],
+    "tags": [
+      "模拟",
+      "经营",
+      "休闲",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-047.png",
+    "coverColors": [
+      "#0c4a6e",
+      "#0ea5e9"
+    ],
+    "description": "快节奏空中交通管理模拟，规划航线管理跑道登机口，从一条泥土跑道发展成庞大国际机场。",
+    "website": ""
+  },
+  {
+    "id": "game-048",
+    "title": "Lanternfall",
+    "developer": "EverLabs Software",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-29",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "策略"
+    ],
+    "tags": [
+      "策略",
+      "战棋",
+      "经营",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-048.png",
+    "coverColors": [
+      "#4c0519",
+      "#be123c"
+    ],
+    "description": "在十五个闹鬼领域中守护手工打造的哥特万圣节世界，建造升级特色防御塔，部署单位抵御超自然入侵。",
+    "website": ""
+  },
+  {
+    "id": "game-049",
+    "title": "霓虹狂潮",
+    "developer": "QuackByte Studio",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-01",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作"
+    ],
+    "tags": [
+      "动作",
+      "爽快",
+      "连招",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-049.png",
+    "coverColors": [
+      "#701a75",
+      "#e879f9"
+    ],
+    "description": "快节奏俯视角Roguelite弹幕射击。驾驶战机冲入霓虹战场自动开火，在铺天盖地的敌人中穿梭闪避，组合独特战斗流派登上排行榜。",
+    "website": ""
+  },
+  {
+    "id": "game-050",
+    "title": "CLI: Colony Line Interface",
+    "developer": "babia",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-28",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "模拟"
+    ],
+    "tags": [
+      "模拟",
+      "经营",
+      "休闲",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-050.png",
+    "coverColors": [
+      "#052e16",
+      "#16a34a"
+    ],
+    "description": "从命令行引导太空殖民地命运。在环绕死亡地球的空间站上维持生命系统，派遣殖民者探索，一切通过纯文本界面操作。",
+    "website": ""
+  },
+  {
+    "id": "game-051",
+    "title": "Minesweeper Reloaded",
+    "developer": "Mifhko",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-01",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "策略"
+    ],
+    "tags": [
+      "策略",
+      "战棋",
+      "经营",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-051.png",
+    "coverColors": [
+      "#1f2937",
+      "#6b7280"
+    ],
+    "description": "经典扫雷全面升级：20+游戏模式，500个手工关卡，战术性探雷机制带来全新体验。",
+    "website": ""
+  },
+  {
+    "id": "game-052",
+    "title": "My Desktop Cat",
+    "developer": "hirsch-dev",
+    "publisher": "Independent",
+    "releaseDate": "2026-10-01",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "益智"
+    ],
+    "tags": [
+      "解谜",
+      "休闲",
+      "益智",
+      "单人"
+    ],
+    "status": "coming-soon",
+    "cover": "images/game-052.png",
+    "coverColors": [
+      "#854d0e",
+      "#eab308"
+    ],
+    "description": "把会动的可爱猫咪带到Windows桌面。猫咪会漫步休息玩耍并对你的操作做出反应，喂食抚摸投喂零食，解锁更多猫咪装饰房间。",
+    "website": ""
+  }
+]

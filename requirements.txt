@@ -1,0 +1,3 @@
+# GameVault 数据管道依赖
+# 仅需 requests，其余全部使用 Python 标准库
+requests>=2.28.0
