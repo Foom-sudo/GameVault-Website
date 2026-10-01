@@ -237,15 +237,16 @@ def is_probable_duplicate(existing, candidate):
         return True, f"slug={candidate['slug']}"
 
     # 4. 标题规范化匹配（需同时开发商相似才判定，避免误杀）
-    e_fp = title_fingerprint(existing.get("title", ""))
-    c_fp = title_fingerprint(candidate.get("title", ""))
-    if e_fp == c_fp and e_fp != "d41d8cd98f00":  # 空字符串的md5前12位
+    e_norm = normalize_title(existing.get("title", ""))
+    c_norm = normalize_title(candidate.get("title", ""))
+    # 要求规范化后标题至少 4 个字符，避免单字符/数字误判（如 "2" 匹配到一切带数字的标题）
+    if len(e_norm) >= 4 and len(c_norm) >= 4 and e_norm == c_norm:
         e_dev = (existing.get("developer") or "").lower()
         c_dev = (candidate.get("developer") or "").lower()
         # 开发商相同或其中一方缺失，才判定重复
         if not e_dev or not c_dev or e_dev == c_dev or \
            e_dev in c_dev or c_dev in e_dev:
-            return True, f"title_fingerprint={e_fp}"
+            return True, f"title_normalized={e_norm[:24]}"
 
     return False, None
 
