@@ -2590,5 +2590,3283 @@
       }
     },
     "lastUpdated": "2026-10-01"
+  },
+  {
+    "id": "game-071",
+    "title": "Salt & Schooners",
+    "slug": "salt-schooners",
+    "developer": "Clayton Games",
+    "publisher": "Clayton Games",
+    "releaseDate": "2026-09-01",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "First-Person",
+      "Third Person",
+      "Exploration",
+      "Sandbox",
+      "Survival",
+      "Free to Play",
+      "Action-Adventure",
+      "3D",
+      "Colorful"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/93c/93c0421fbf27a0d0e94e94b5b1e29782.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "You wash ashore in 1789 with nothing but the clothes on your back and the salt in your lungs. The Pacific stretches out in every direction, a chain of more than thirty islands, each one a gamble between salvation and another slow death.Forage. Hunt. Scavenge the wrecks. Build a boat from whatever the islands give you. Then watch it fall apart the moment the waves decide they're tired of your company. Every voyage is a risk. Every repair is a race against hunger, weather, and the next hull breach",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019838
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-072",
+    "title": "[Bober Bros] Last Pill Bar",
+    "slug": "bober-bros-last-pill-bar",
+    "developer": "Bober Bros",
+    "publisher": "Bober Bros",
+    "releaseDate": "2026-09-01",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "模拟",
+      "休闲",
+      "独立"
+    ],
+    "tags": [],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/ee9/ee94820160c7a96cdb8797b5611b6cb4.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "A virus is spreading. You can't afford to pickle everyone. Keep the bar open and decide who gets pickled before the outbreak decides who dies.",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020227
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-073",
+    "title": "Galactic Prospectors",
+    "slug": "galactic-prospectors",
+    "developer": "Vyrex Interactive, yellow51.dev",
+    "publisher": "Vyrex Interactive, yellow51.dev",
+    "releaseDate": "2026-09-02",
+    "releaseDateTBD": false,
+    "platforms": [
+      "Linux",
+      "PC"
+    ],
+    "genres": [
+      "动作",
+      "冒险",
+      "策略",
+      "模拟",
+      "休闲",
+      "大型多人在线",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Multiplayer",
+      "Steam Cloud",
+      "Co-op",
+      "2D",
+      "Online Co-Op",
+      "Steam Leaderboards",
+      "Pixel Graphics",
+      "Early Access"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/a25/a25bac34f74bdcaa8281972c5e76ad23.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Galactic Prospectors is a 2D Space Survival Sandbox set 200 years in the future when all planets in the solar system were destroyed by  a rogue AI (you can play as the Rogue AI, or as a regular Astronaut out in the universe). Take on the universe against rogue AIs, other humans and other life forms, all while trying to stay alive. Even as an AI if you wish to play as such, you too must survive the harsh elements of Space. Resources are still needed, requiring you to build factories, upgrade and ",
+    "website": "https://vyrexinteractive.com/",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019839
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-074",
+    "title": "RonkBonk",
+    "slug": "ronkbonk",
+    "developer": "copoeric",
+    "publisher": "copoeric",
+    "releaseDate": "2026-09-02",
+    "releaseDateTBD": false,
+    "platforms": [
+      "Linux",
+      "PC",
+      "macOS"
+    ],
+    "genres": [
+      "动作",
+      "策略",
+      "休闲",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Split Screen",
+      "Controller",
+      "Local Multiplayer",
+      "PvP",
+      "Cute",
+      "Cinematic",
+      "Futuristic",
+      "Cyberpunk"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/600/600fc002ef04d5396af487d8e84e017a.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "RonkBonkA fast two-player arena duel. Steer your cube, paint the grid with your trail, and force your rival into a crash. First to 6 wins the match.How it plays\nMove. Dash for a burst. Charge to leap several tiles. Fire your skill when it flips the fight.Skills (pick one before the match)Infinite Charge — Keep charging for a short windowClone Creation — Spawn helper cubes that fight for youInvisible Trail — Hide your trail from opponentsInfinite Trails — Your trail never fadesLaser Trail — Laser",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020007
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-075",
+    "title": "Bara Blood - The Crimson Heir",
+    "slug": "bara-blood-the-crimson-heir",
+    "developer": "Male Doll Adventures",
+    "publisher": "Male Doll Adventures",
+    "releaseDate": "2026-09-02",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作",
+      "冒险",
+      "模拟"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "2D",
+      "Nudity",
+      "Sexual Content",
+      "Family Sharing",
+      "LGBTQ+"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/862/86274bae8ba7ebf53867eec54512906c.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "You play as Lucien, Dracula's son, and your goal is to free people from the magical good manners that the angel Angelo has cast on people. Reveal the pleasures of life to humans, monsters, and angels through the way of 4 unique levels with 16 NSFW animations. Unlock 4 CGs in your gallery. Enjoy an NSFW platform game with different weapons to unlock. 16 NSFW animations 4 NSFW CGs 4 Handcraft levels 4 Weapons to unlock Game Gallery with NSFW animations and CGs",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019837
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-076",
+    "title": "Scarlet Skips",
+    "slug": "scarlet-skips",
+    "developer": "",
+    "publisher": "",
+    "releaseDate": "2026-09-03",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "独立"
+    ],
+    "tags": [],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/5ab/5abed71ad81ba5b4b19cdf62f3954d77.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Jump jump jump as much as you can in this silly 1-button Rogue-Like about skipping rope! Power up your jump ropes to help Scarlet jump higher, survive longer, and reach absurdly high scores! boing boing boing boing boing boing boing boing",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020221
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-077",
+    "title": "The Blood Of Dawnwalker",
+    "slug": "the-blood-of-dawnwalker",
+    "developer": "Rebel Wolves",
+    "publisher": "Bandai Namco Entertainment",
+    "releaseDate": "2026-09-03",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series S/X"
+    ],
+    "genres": [
+      "动作",
+      "角色扮演"
+    ],
+    "tags": [
+      "Jeu de rôle"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/games/319/319d18680fd0233e0ff724f234c97d17.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "From Rebel Wolves, comes the first chapter of a brand new role-playing saga: The Blood of Dawnwalker. Bloody conflicts sweep the lands, and the Black Death comes for the survivors. In the wake of the disasters claiming thousands of lives, the decimated human population struggles for survival. It's a moment of weakness - and that's all they needed.Face your foes - be they human, monster, or the ticking clock itself. They walk out of the shadows and claim what they've been denied for centuries: fr",
+    "website": "https://dawnwalkergame.com/ua/en/home",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 996046
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-078",
+    "title": "Twister City",
+    "slug": "twister-city",
+    "developer": "T5aDev",
+    "publisher": "T5aDev",
+    "releaseDate": "2026-09-03",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "休闲",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Co-op",
+      "cooperative",
+      "First-Person",
+      "Partial Controller Support",
+      "Online Co-Op",
+      "Funny",
+      "Exploration",
+      "Survival"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/24b/24bdfc28bbf4c706667020de2b0d26d3.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Twister City is an online co-op game featuring proximity chat, where you and up to 5 friends try to survive in a city plagued by tornadoes. Collect debris to research for points and unlock new items and upgrades that will hopefully increase your chances to survive Twister City.WORK TOGETHERYou can increase your chances of survival with the help of your friends. Communicate through proximity chat, but don’t wander too far from each other… For otherwise, you won’t be able to hear each others’ scre",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020107
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-079",
+    "title": "Asdivine Knot",
+    "slug": "asdivine-knot",
+    "developer": "Exe Create",
+    "publisher": "KEMCO",
+    "releaseDate": "2026-09-03",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "Fantasy",
+      "combat",
+      "Story",
+      "JRPG",
+      "Music",
+      "battle",
+      "party",
+      "fight",
+      "secrets",
+      "Fishing"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/63a/63a7dc65845d85a253c3c876620cd4ad.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "A young cleric named Verselio once devoted his life to serving the deity Treises—until the truth shattered everything he believed. When the divine is revealed to be a lie, faith turns into fury, and a journey of rebellion begins. Joined by a mysterious maiden, a disciplined vigilante chief, and a self-proclaimed deity, Verselio sets out across a vast fantasy world in search of answers. As their paths intertwine, each carries their own burdens, beliefs, and secrets, in a story of betrayal, redemp",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019842
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-080",
+    "title": "Hockey Beasts",
+    "slug": "hockey-beasts",
+    "developer": "Revulo Games",
+    "publisher": "Revulo Games",
+    "releaseDate": "2026-09-04",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "体育",
+      "休闲",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Multiplayer",
+      "Full controller support",
+      "Co-op",
+      "cooperative",
+      "Online Co-Op",
+      "Split Screen",
+      "Local Co-Op",
+      "Local Multiplayer"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/467/467ff6670721404dcc06b144532813df.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Pick your favourite squad: from stubborn bulls and speedy monkeys to crocodiles, elephants, giraffes, and other rink-ready beasts. Every team plays differently, so choosing a character is not just about looks. Some are quick and agile, others rely on strength, reach, or a more patient approach.\nThe controls are simple enough to understand from the first match, but winning consistently takes timing, positioning, and a good read of your opponent. It is easy to play, hard to master, and built aroun",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020008
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-081",
+    "title": "Onimusha: Way Of The Sword",
+    "slug": "onimusha-way-of-the-sword",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "releaseDate": "2026-09-04",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series S/X"
+    ],
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "tags": [],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/games/48e/48ea2f7adb60615d658887899ffe4d1f.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Fight through bloodstained battlefields of intense swordplay action. Explore the historic Japanese capital of Edo-era Kyoto, twisted by malevolent clouds of Malice.\nWith every stage cloaked in mystery, danger and intrigue. Battle against monstrosities from the underworld known as Genma in a tale of dark fantasy.\nFollow the tale of a samurai who wields the Oni Gauntlet, a mystical artifact that grants its bearer the power to slay Genma.\nThrough gritty, blood-soaked brawls, he searches for his rea",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 994600
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-082",
+    "title": "Vale Primordial",
+    "slug": "vale-primordial",
+    "developer": "Primordial Studio",
+    "publisher": "Primordial Studio",
+    "releaseDate": "2026-09-04",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "模拟",
+      "休闲",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "2D",
+      "Pixel Graphics",
+      "Cute",
+      "Colorful",
+      "Relaxing",
+      "Resource Management",
+      "Family Sharing",
+      "Dinosaurs"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/29f/29f3102332e0534059a4ac6348d7f881.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "A single egg survived the end of the world65 million years ago, a meteor struck the Earth and wiped out the age of giants. But in a valley hidden between volcanic cliffs, a rare magnetic field — generated by crystal deposits in the rock — deflected the debris and kept a fragment of life intact beneath the ash.\nMillions of years later, you find that egg. Still warm. The moment you touch it, it stirs.Feed. Hatch. Rebuild.Vale Primordial is an idle game: the valley produces while you play — and whi",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019888
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-083",
+    "title": "挂机吧三国",
+    "slug": "gua-ji-ba-san-guo",
+    "developer": "Three Kingdoms Games",
+    "publisher": "Three Kingdoms Games",
+    "releaseDate": "2026-09-04",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "角色扮演",
+      "策略",
+      "休闲"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "RPG",
+      "2D",
+      "Free to Play",
+      "PvP",
+      "Anime",
+      "In-App Purchases",
+      "Turn-Based",
+      "Historical"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/469/4696678d20cc8f67fe47239238f10ebf.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "这是一款名将少年时、放置策略卡牌手游。男主穿越回到三国乱世，以收集《三国志》残页为主线，特色养成、自由搭配，打造独特超强军团，征战热血乱世；新增爬塔小游戏玩法，助力快乐统一天下！【特色一】跨服争霸，谁能成就王者？达到一定等级的玩家，可参与跨服竞技PK，成就全服霸主之比特。王者争霸的流程为：报名—海选—32强—16强—8强—4强—半决赛—决赛。所有玩家膜拜冠军，可获得丰厚奖励。【特色二】超级福利，领到手软七日狂欢、关公赐福、等级礼包、成长之路……多种活动爽爆体验，福利满满，海量资源轻松拿。不充钱也能战力飙升，超级良心手游！【特色三】名将招募，尽在囊中偶像歌手——貂蝉，炒股达人——曹操，加特林机枪手——关羽，横空降世。丰富、趣味的卡牌人物，古代元素与现代武器的碰撞，开启爆笑三国之旅。【特色四】挂机升级，轻松放置招神将、夺城池，三国荣耀升官职。演武楼、战魂阁、董卓来了，各种.三国挂机.玩法，永远玩不腻。《挂机吧三国》——极致放置×策略养成！24小时离线.挂机三国.，打造你的最强三国军团！【游戏核心特色】——解放双手，轻松称霸三国！【极致离线挂机，收益不间断】(1) 全自动战斗系统：武将自动释",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019918
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-084",
+    "title": "DIRTY VAMPIRES",
+    "slug": "dirty-vampires",
+    "developer": "SWEET LIPS Publishing",
+    "publisher": "SWEET LIPS Publishing",
+    "releaseDate": "2026-09-04",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演",
+      "策略",
+      "模拟",
+      "体育",
+      "休闲",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Atmospheric",
+      "RPG",
+      "Story Rich",
+      "2D",
+      "Anime",
+      "Nudity",
+      "Side Scroller",
+      "Sexual Content"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/047/04716acd817f1434da4cf09ad1023de3.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "DIRTY VAMPIRES - is a simple 2D game for adults in which you have to uncover hot images of beautiful ladies. The concept of the game is extremely straightforward: using a ball, you break the necessary blocks of the level and gradually reveal a spicy image. After completing each level, you can fully enjoy these images.It's worth noting that this game not only develops your visual memory, but also improves your motor skills and attentiveness. And the pleasant soundtrack will keep you entertained a",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019917
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-085",
+    "title": "Hentai Tales: Training & Subjugation Café",
+    "slug": "hentai-tales-training-subjugation-cafe",
+    "developer": "Hentai works",
+    "publisher": "Hentai works",
+    "releaseDate": "2026-09-04",
+    "releaseDateTBD": false,
+    "platforms": [
+      "Linux",
+      "PC",
+      "macOS"
+    ],
+    "genres": [
+      "策略",
+      "休闲",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Story Rich",
+      "2D",
+      "FPS",
+      "Fantasy",
+      "Female Protagonist",
+      "Anime",
+      "Nudity"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/6bc/6bc4f8603a01727b2814535cd91a8ed2.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "GamePlayEnjoy a sensual story while completing tricky puzzles!\nConnect the numbers sequentially, using all of the squares on the board\nAfter completing a puzzle, you will unlock a sexy new image and the next part of the story!\nCan you complete every puzzle and meet all of the girls?!Story BackgroundI discovered the secret of the cafe owner, Rin.\nBeneath her cool exterior lies a desperate need to be dominated.\nWhat started as curiosity spiraled into a game of control, obsession, and complete owne",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020106
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-086",
+    "title": "Flip-Off",
+    "slug": "flip-off",
+    "developer": "Big Horse Games",
+    "publisher": "Big Horse Games",
+    "releaseDate": "2026-09-04",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作",
+      "策略",
+      "休闲"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Sci-fi",
+      "Funny",
+      "Female Protagonist",
+      "3D",
+      "Side Scroller",
+      "Tower Defense",
+      "Family Sharing",
+      "Протагонистка"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/f93/f9371917524600f291072d0abb6fd17d.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "After a brutal war, super soldiers known as Draugrs successfully saved the world, but they needed to find a job after the fight was over. In this game, a Draugr has to work as a fast food worker in a run down mall, but another Draugr has opened a rival chain right next door! Naturally, they use left over war equipment and secret tech to duke it out with creatures made from the restaurant's inventory. You play as a minimum wage worker who's gotten roped into this mess. Command a flavorful army an",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020193
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-087",
+    "title": "BULK (2026)",
+    "slug": "bulk-2026",
+    "developer": "",
+    "publisher": "",
+    "releaseDate": "2026-09-04",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "独立"
+    ],
+    "tags": [],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/140/1402b8722ee0c462dfe6811b0c376368.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Collect cards, mix them, watch them rise their rank, sell for gold, and invest in upgrades. Stack, mix, sell and repeat... The machines in this dark fantasy factory keep humming, and the profits are waiting for you...",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020232
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-088",
+    "title": "Dataminers",
+    "slug": "dataminers",
+    "developer": "Electrocosmos",
+    "publisher": "Application Systems Heidelberg",
+    "releaseDate": "2026-09-06",
+    "releaseDateTBD": false,
+    "platforms": [
+      "Linux",
+      "PC",
+      "macOS"
+    ],
+    "genres": [],
+    "tags": [
+      "Science",
+      "race",
+      "challenge",
+      "enemy",
+      "learn",
+      "tower",
+      "Training",
+      "Stratégie",
+      "numbers",
+      "desktop"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/a41/a41d6456a20ebecca6dca968bed9e112.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Dataminers is a turn-based logic-adventure in which you crack data towers of evil corporations. Use numbers to locate the datamines around you and hack them to clear a path. The tower is well guarded! Be careful not to set off the alarm and every move counts! Reach the top of the tower and hack their mainframe before the firewall catches up on you!\n\nChallenge yourself in a variety of game modes with a ton of difficulty settings, level progression and unlockables.\n\nGAME MODES\n\nComplete procedural",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019920
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-089",
+    "title": "Splatter Piece",
+    "slug": "splatter-piece",
+    "developer": "Lief Studio",
+    "publisher": "Lief Studio",
+    "releaseDate": "2026-09-07",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "休闲",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "First-Person",
+      "Third Person",
+      "Funny",
+      "PvP",
+      "Family Friendly",
+      "Cute",
+      "3D",
+      "Colorful"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/048/048f8c1233c45029fd433ded7b2cdc30.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Splatter Piece is a first-person party game where 1-8 players pile into the same art gallery, grab an easel each and try to copy a famous painting before the clock runs out. Nobody here is a real painter — that's the beauty of it.How a round goesA masterpiece goes up on the gallery wall, and everyone gets to work copying it at their easel.\nYou paint against the clock, with three brush tips, a color picker, an eyedropper, an eraser, a guide grid and multi-step undo at your service.\nWhen time runs",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019968
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-090",
+    "title": "Undying Flame",
+    "slug": "undying-flame",
+    "developer": "Per Sidera Industries",
+    "publisher": "Per Sidera Industries",
+    "releaseDate": "2026-09-08",
+    "releaseDateTBD": false,
+    "platforms": [
+      "Linux",
+      "PC"
+    ],
+    "genres": [
+      "动作",
+      "策略"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "2D",
+      "Steam Leaderboards",
+      "Pixel Graphics",
+      "Controller",
+      "Space",
+      "Point & Click"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/f50/f5018b6a9bebf81c58c532967dc582cf.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "When the fire dies, so do you.Undying Flame is a top-down wave-survival rogue-lite built around one living campfire. Creatures march out of the darkness. Shoot them. Collect the wood they drop. Feed the flame. Survive long enough to discover what the fire becomes.There is no health bar. The fire tells you everything. A healthy flame is bright, warm, and loud, with embers flying and logs crackling. A dying flame shrinks, dims to red, and goes quiet. Watch the color. Listen to the crackle. Feed it",
+    "website": "https://persideraindustries.com/",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020009
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-091",
+    "title": "Halloween: The Game",
+    "slug": "halloween-the-game",
+    "developer": "IllFonic",
+    "publisher": "Gun Interactive, IllFonic Publishing",
+    "releaseDate": "2026-09-08",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series S/X"
+    ],
+    "genres": [
+      "动作",
+      "模拟"
+    ],
+    "tags": [],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/54c/54c8708079199482c2dc32a35b1ace12.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "It’s Halloween night, 1978, the unsuspecting families of the quiet suburban town of Haddonfield are making holiday preparations, and evil has made its way home.\n\nThe Boogeyman is out. Team up in a 1v4 asymmetrical horror showdown on everyone’s favorite night of the year. Choose to save the quiet town of Haddonfield from bloodshed as a Hero of Haddonfield or stalk and terrorize the residents as Michael Myers.",
+    "website": "https://halloweengame.com/",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020033
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-092",
+    "title": "Magical Blush",
+    "slug": "magical-blush",
+    "developer": "Alkacer Game Studio",
+    "publisher": "DANGEN Entertainment",
+    "releaseDate": "2026-09-09",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "Exploration",
+      "combat",
+      "Magic",
+      "battle",
+      "secrets",
+      "fire",
+      "Minigames",
+      "water",
+      "demo",
+      "chaos"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/197/197f04ecff2b07ef4653476732f098e7.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Magical Blush DEMO is available\nhere.\n\n\nEXPLORE a variety of magical stages in a Metroidvania-esque world filled with branching paths, hidden secrets, and rewarding backtracking.\nBATTLE a wide array of enemies in fast-paced magical combat, from tricky minions to cunning bosses.\nMASTER a diverse arsenal of elemental spells, each with unique effects and upgrade potential with the Combo Counter.\nEQUIP Arnin with specific gear to enhance your abilities and customize your playstyle.\nUNLOCK special ab",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019655
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-093",
+    "title": "TAMA JIGOKU",
+    "slug": "tama-jigoku",
+    "developer": "Deathtrap",
+    "publisher": "Deathtrap",
+    "releaseDate": "2026-09-09",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作",
+      "休闲",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Full controller support",
+      "Steam Cloud",
+      "Atmospheric",
+      "2D",
+      "Sci-fi",
+      "Controller",
+      "Post-apocalyptic",
+      "Physics",
+      "Futuristic"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/2cc/2cc1ba313a29d05b191ce9d6586c84ee.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "EARTH HAS BECOME AN ALIEN PINBALL TABLE—AND YOU ARE THE BALL.\nAim your launch, predict the ricochet and smash through hostile formations in a fast, physics-driven arcade campaign. Ordinary alien ships build your score and may release rare combat powers, but the yellow command ships are the real objective. Destroy every command ship to break the formation and trigger a spectacular chain-reaction finale.\nEvery shot matters. Rebound through dense formations, hunt long chains, squeeze through danger",
+    "website": "https://www.deathtrapgames.com/",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020194
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-094",
+    "title": "Valheim",
+    "slug": "valheim",
+    "developer": "Dvoid, Richard Svensson",
+    "publisher": "Coffee Stain",
+    "releaseDate": "2026-09-09",
+    "releaseDateTBD": false,
+    "platforms": [
+      "Linux",
+      "PC"
+    ],
+    "genres": [
+      "动作",
+      "冒险",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Steam Cloud",
+      "Co-op",
+      "cooperative",
+      "Online Co-Op",
+      "Fantasy",
+      "Exploration",
+      "Survival",
+      "Online multiplayer"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/games/adb/adb59be81367b19c2544457424bcf086.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Prove your worth!\nAre you worthy of entering Valhalla?\nYou have been sent to Valheim, the 10th Norse world. Only by defeating the mighty beasts of these lands will you win the favor of the gods. This quest will take you to the far reaches of this world, from the deepest forest to the highest mountain peak. You will craft powerful weapons, build unyielding castles and sail longships towards the horizon.\n\nDescription\n\nValheim is a game about exploring a huge fantasy world inspired by norse mytholo",
+    "website": "https://www.valheimgame.com",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 248521
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-095",
+    "title": "LED HEARTS",
+    "slug": "led-hearts",
+    "developer": "Fugas Kitsune",
+    "publisher": "Fugas Kitsune",
+    "releaseDate": "2026-09-09",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "休闲"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Atmospheric",
+      "Story Rich",
+      "2D",
+      "Sci-fi",
+      "Comedy",
+      "Anime",
+      "Cute",
+      "Choices Matter",
+      "Multiple Endings"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/166/1664919f9346e8c9a182742902349d55.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "ABOUT THIS GAMELED HEARTS is an emotional sci-fi visual novel with romance elements, deep storyline, and meaningful choices.\nSet in a futuristic world where humanity relies on autonomous AI robots, a talented programmer named Max creates a unique artificial consciousness named Milly.KEY FEATURES Deep Storyline: A gripping tale about friendship, artificial intelligence, and the secrets of humanity's Great Exodus.\nVivid Characters: Mysterious AI Milly and class representative Violetta!\nChoices Mat",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019943
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-096",
+    "title": "The Alighieri Circle: Dante's Bloodline",
+    "slug": "the-alighieri-circle-dantes-bloodline",
+    "developer": "ONE-O-ONE GAMES",
+    "publisher": "Entalto Publishing",
+    "releaseDate": "2026-09-09",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "Exploration",
+      "Comedy",
+      "combat",
+      "Story",
+      "Thriller",
+      "hero",
+      "history",
+      "environment",
+      "journey",
+      "fire"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/ac8/ac8e6aad345844473ff6f9600e0cbae3.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Hell is not a place of fire; it is a mirror of your soul.\nIn The Alighieri Circle, you are Gabriele Alighieri. You are not a soldier, nor a hero. Only a man crushed by a legacy you never asked for.\nEvery 33 years the barrier between our reality and the Hell fades.\nTo protect your family and the world you know, you must perform The Ritual, returning to your ancestral home and accept a destiny you have spent your life running from. In first-person psychological thriller focused on atmosphere, expl",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019380
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-097",
+    "title": "King Quest",
+    "slug": "king-quest-2",
+    "developer": "slc studios",
+    "publisher": "slc studios",
+    "releaseDate": "2026-09-10",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作",
+      "冒险",
+      "策略",
+      "休闲",
+      "大型多人在线"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Atmospheric",
+      "First-Person",
+      "FPS",
+      "Exploration",
+      "Action-Adventure",
+      "Third-Person Shooter",
+      "Realistic",
+      "Loot",
+      "Tower Defense"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/5cd/5cd6d1ded97c29bfae73bfd81c218bcb.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019944
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-098",
+    "title": "Gun Shop 3",
+    "slug": "gun-shop-3",
+    "developer": "Mall Ninja Studio",
+    "publisher": "Mall Ninja Studio",
+    "releaseDate": "2026-09-11",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "策略",
+      "模拟",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "First-Person",
+      "Sandbox",
+      "Moddable",
+      "3D",
+      "Crafting",
+      "combat",
+      "PvE",
+      "Resource Management",
+      "Family Sharing"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/41e/41ed40b27212fb4109a24dba27ab014a.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Gun Shop 3 has its sights set on America’s seemingly insatiable appetite for firearms.  As the Federally licensed Firearms (FFL) Dealer, you will begin your rise to the top with humble beginnings of a spare room in your home or a “less than desirable” location.BUILD WEAPONRYBuild custom weapons to please your customers. Design normal every day items or unusable beasts. Attach rails to rails, scopes to adapters, and adapters to points. Adjust this adjust that. Twist it bob it shoot it. BULK CONTR",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020010
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-099",
+    "title": "SEX POLICE",
+    "slug": "sex-police-2",
+    "developer": "SWEET LIPS Publishing",
+    "publisher": "SWEET LIPS Publishing",
+    "releaseDate": "2026-09-11",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演",
+      "模拟",
+      "体育",
+      "休闲",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Atmospheric",
+      "RPG",
+      "Story Rich",
+      "2D",
+      "Anime",
+      "Nudity",
+      "Side Scroller",
+      "Sexual Content"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/ef5/ef5dd648c1cca1dd248b9b08a1320b2b.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "SEX POLICE - is a simple 2D game for adults in which you have to uncover hot images of beautiful ladies. The concept of the game is extremely straightforward: using a ball, you break the necessary blocks of the level and gradually reveal a spicy image. After completing each level, you can fully enjoy these images.It's worth noting that this game not only develops your visual memory, but also improves your motor skills and attentiveness. And the pleasant soundtrack will keep you entertained and p",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020011
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-100",
+    "title": "Backrooms: The Entity",
+    "slug": "backrooms-the-entity",
+    "developer": "SUDT Games",
+    "publisher": "SUDT Games",
+    "releaseDate": "2026-09-12",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "冒险",
+      "模拟",
+      "休闲",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Co-op",
+      "cooperative",
+      "Horror",
+      "Online Co-Op",
+      "Exploration",
+      "Stealth",
+      "Tactical",
+      "Early Access"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/dee/deed20e3ebd25ee31daf8d0388901f03.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Backrooms: The Entity is a cooperative psychological horror game for 1–4 players. Deep within a distorted and decaying reality, something intelligent is hunting you. It watches, adapts, learns your behavior, and grows more aggressive the longer you survive.Play alone or with friends as you explore abandoned environments, avoid deadly encounters, and uncover the truth behind the presence lurking within the endless maze.FeaturesOppressive and immersive horror atmosphereOnline co-opProximity voice ",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020012
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-101",
+    "title": "Warcraft III: Reforged - Forsaken Kingdom",
+    "slug": "warcraft-iii-reforged-forsaken-kingdom",
+    "developer": "",
+    "publisher": "Blizzard Entertainment",
+    "releaseDate": "2026-09-12",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "角色扮演",
+      "策略"
+    ],
+    "tags": [
+      "warcraft",
+      "warcraft 3"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/b9b/b9b0fb4a28edaf19db7b71ed25d2b504.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Warcraft III Reforged: Forsaken Kingdom explores the events between Arthas's return to Lordaeron and the emergence of the Undercity, filling in the four-year gap between Warcraft III and World of Warcraft.\n\nThe story is split between the Last Days of Lordaeron prologue and the main Forsaken Kingdom campaign, following the aftermath of Arthas's return to Lordaeron and chronicling the rise of Sylvanas Windrunner and the Forsaken as they join the Horde.\n\nWarcraft III Reforged: Forsaken Kingdom incl",
+    "website": "https://news.blizzard.com/en-us/article/24302500/warcraft-iii-reforged-forsaken-kingdom-what-s-next-panel-recap",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019967
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-102",
+    "title": "Sigilfarer Bundle",
+    "slug": "sigilfarer-bundle",
+    "developer": "Viabo Games",
+    "publisher": "Anshar Publishing",
+    "releaseDate": "2026-09-13",
+    "releaseDateTBD": false,
+    "platforms": [
+      "Linux",
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "Jeu de rôle"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/fcc/fcc846b5a6b212bc0fca7b2ba4d6b48e.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020013
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-103",
+    "title": "Dunebound Tactics",
+    "slug": "dunebound-tactics",
+    "developer": "Terahard",
+    "publisher": "indie.io",
+    "releaseDate": "2026-09-13",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "RPG",
+      "Survival",
+      "stats",
+      "combat",
+      "battle",
+      "party",
+      "destroy",
+      "journey",
+      "ship",
+      "enemy"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/f3d/f3dfb105f43a785e579be1cbb59bf30c.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Dunebound Tactics will push both your strategic and tactical prowess as you navigate the unforgiving wastes. Lead your crew on a daring voyage in search of a new life, making a perilous exodus across Imperial-controlled territories.\nFollow the Elios leylines aboard your fragile ship, embarking on a journey where risk and reward constantly intertwine.\nPower your ship’s engine by gathering Elios through narrative-driven quests, or the bodies of fallen enemies, and—if desperation calls for it—your ",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020014
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-104",
+    "title": "Sigilfarer: A Dice-Rolling Roguelite",
+    "slug": "sigilfarer-a-dice-rolling-roguelite",
+    "developer": "Viabo Games",
+    "publisher": "Anshar Publishing",
+    "releaseDate": "2026-09-13",
+    "releaseDateTBD": false,
+    "platforms": [
+      "Linux",
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "combat",
+      "Building",
+      "Story",
+      "party",
+      "fight",
+      "secrets",
+      "death",
+      "skill",
+      "journey",
+      "sword"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/b71/b7128108b1990edb570912250db6c1d6.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "🎲 Build Your Perfect Dice – Equip gear to shape your rolls and define your strategy.\n🗺️ Explore a World That Changes Every Run – No two journeys are the same—adapt and survive.\n⚔️ Master Tactical Dice Combat – Roll, reroll, and outthink your enemies in every fight.\n🚂 Embark on Risky Expeditions – Face shifting dangers, lost secrets, and unexpected encounters.\n⛺ Survive the Wilds – Manage your camp, ration supplies, and push your luck to go further.\n\n\nSigilfarer is a roguelite adventure where eve",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019342
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-105",
+    "title": "HOPE 01",
+    "slug": "hope-01",
+    "developer": "Bending Boy Games",
+    "publisher": "Bending Boy Games",
+    "releaseDate": "2026-09-14",
+    "releaseDateTBD": false,
+    "platforms": [
+      "Linux",
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "Loot",
+      "weapons",
+      "guns",
+      "shoot",
+      "boss",
+      "dodge",
+      "run",
+      "enemies"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/fe7/fe741b2ed74fa2a757f96e39f372c62c.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "EXPLORE THE HAB CLUSTER, FIND HAB 01!\nWake up in a deteriorating underground facility with nothing but a mysterious request to find HAB 01.\nExplore the perilous interconnected labyrinth of what once was, help survivors, and ultimately dictate the fate of humanity with multiple endings.\nSHOOT & DODGE YOUR WAY THROUGH DANGEROUS ENEMIES AND BOSSES\nUtilize various items to dispatch the dangerous enemies that wander the halls of the hab cluster.\nEquip yourself with variety of guns, gadgets, and usabl",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020045
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-106",
+    "title": "Hunting Pro Simulator",
+    "slug": "hunting-pro-simulator",
+    "developer": "Hard Shark Games",
+    "publisher": "Hard Shark Games",
+    "releaseDate": "2026-09-14",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "模拟",
+      "体育",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Atmospheric",
+      "Open World",
+      "First-Person",
+      "FPS",
+      "Exploration",
+      "Early Access",
+      "3D",
+      "Realistic",
+      "Relaxing"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/9e3/9e36c65ed8ac9b14f1499674392626cb.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Hunting Pro Simulator\nAbout the GameIn Hunting Pro Simulator, your heart’s racing, hands shaking… BAM! Take the perfect headshot! Feel the thrill, aim the target, and celebrate as the beast hits the ground. Hunting has never felt this easy!About Hunting Pro SimulatorGrab your rifle and get ready! Practice your aim and master the newest hunting rifles on the market across over 50 training levels. Try out all 3 guns, line up your shots, feel your heart race, and watch your skills improve with ever",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020108
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-107",
+    "title": "Woodo",
+    "slug": "woodo",
+    "developer": "Tiny Monks Tales",
+    "publisher": "Daedalic Entertainment",
+    "releaseDate": "2026-09-15",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "Space",
+      "Story",
+      "Narration",
+      "Aventure",
+      "Cozy",
+      "color",
+      "toy",
+      "characters"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/1bd/1bd582e08fc17c667b5419fc9b7f189c.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Woodo is a cozy diorama puzzle game where you assemble wooden scenes piece by piece. As you place objects in their correct spots, each scene slowly fills with color and comes to life, revealing charming animations and small surprises. Follow the story of Foxy and Ben the frog through a series of interconnected dioramas, each capturing a unique moment from their shared adventure.\n\n\nFeel like you’re assembling a real toy, with each piece clicking into place with a satisfying, tactile sensation, as",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020040
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-108",
+    "title": "스페셜포스 리마스터",
+    "slug": "seupesyeolposeu-rimaseuteo",
+    "developer": "Dragonfly GF Co",
+    "publisher": "DRAGONFLY GF CO",
+    "releaseDate": "2026-09-16",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作"
+    ],
+    "tags": [
+      "Steam Achievements",
+      "Multiplayer",
+      "First-Person",
+      "FPS",
+      "Gore",
+      "Violent",
+      "Free to Play",
+      "Tactical",
+      "PvP",
+      "In-App Purchases"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/27d/27d78624538dc03d3978f7d7a15d6f39.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "SPECIAL FORCE REMASTEREDOnce again, we are Special Force.The classic team-based FPS known for fast movement and precise gunplay returns to a new battlefield.Special Force Remastered carries forward the fast-paced combat and distinctive gameplay flow of the original, reborn with modern visuals and new combat systems.Step onto the battlefield as a special forces operative, and secure victory through quick decisions, precise control, and teamwork. IT’S NOT OLD. IT’S CLASSIC.Classic combat is classi",
+    "website": "https://sfr.dfl.co.kr/",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020110
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-109",
+    "title": "Mage Fight",
+    "slug": "mage-fight",
+    "developer": "Tin Hau Station",
+    "publisher": "Tin Hau Station",
+    "releaseDate": "2026-09-16",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "策略",
+      "休闲",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "2D",
+      "Fantasy",
+      "Steam Leaderboards",
+      "Split Screen",
+      "Action RPG",
+      "Pixel Graphics",
+      "Early Access",
+      "stats"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/5b4/5b43751ae907e486e0a7a88c6889ee94.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Play against online opponents or your friends and engage in a Wizards Duel! Draft from 70 different cards to build your deck how YOU want it. Summon over 10 different minions types in battle to aid you in the fight, such as undead skeletons, mage assistants, resurrecting faeries, and demons beyond the realm. Steal, destroy or add to your opponent's cards or your own to hinder or help. Cast fire, electric and magic spells against your opponents and set them on fire, paralyse, or put them to sleep",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020037
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-110",
+    "title": "PATLABOR the Case Files",
+    "slug": "patlabor-the-case-files",
+    "developer": "Chime",
+    "publisher": "GOOD SMILE COMPANY",
+    "releaseDate": "2026-09-16",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "tags": [
+      "Anime",
+      "Robots",
+      "mecha"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/513/513ee3026e6a05c5aa9285a89d4f506b.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Relive iconic scenes from \"Mobile Police PATLABOR\" in this 3D console action game. Experience dual perspectives: Main Missions as the SV2, and Another Side Missions as their rivals. Hone your pilot skills in Simulator Mode, featuring shooting ranges and Labor duels.",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020035
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-111",
+    "title": "Aniimo",
+    "slug": "aniimo",
+    "developer": "",
+    "publisher": "",
+    "releaseDate": "2026-09-16",
+    "releaseDateTBD": false,
+    "platforms": [
+      "Android",
+      "PC",
+      "PS5",
+      "Xbox Series S/X",
+      "iOS"
+    ],
+    "genres": [
+      "冒险",
+      "角色扮演",
+      "大型多人在线"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Open World",
+      "adventure",
+      "creature-collecting"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/21b/21b53e57144d6fc9b7c07d51b56e5da7.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Aniimo is a free-to-play creature-catching open-world RPG from Pawprint Studio, a FunPlus-backed studio and publisher. Pathfinders explore the continent of Idyll, capture more than 200 Aniimo at launch, and Twine with them to change combat, traversal, and perspective. Features co-op, PvP (Diamond Egg Heist), and a Homeland base. PC, PlayStation 5, Xbox Series, Steam, and Epic launch September 16, 2026; iOS and Android follow September 23. Cross-play.",
+    "website": "http://aniimo.com/",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1004657
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-112",
+    "title": "零域都市：猫娘编队",
+    "slug": "ling-yu-du-shi-mao-niang-bian-dui",
+    "developer": "Zeroframe Works",
+    "publisher": "Zeroframe Works",
+    "releaseDate": "2026-09-17",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "角色扮演",
+      "策略"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "RPG",
+      "Co-op",
+      "Story Rich",
+      "Online Co-Op",
+      "Female Protagonist",
+      "PvP",
+      "Anime",
+      "In-App Purchases"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/3c2/3c2cdc975b6b0c354d60e7fa575d671a.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "🐾 赛博猫娘降临！《猫之城》Steam版重磅上线‌「你的情绪，就是最强武器」‌✨ ‌2026年现象级新作‌ | 🎮 ‌策略+卡牌+养成三合一‌ | 🌟 ‌全动态3D战斗演出‌🌆 世界观：当科技与萌系碰撞‌▶️ 核心设定‌在近未来都市新海市，人类负面情绪会引发傀化现象，而神秘猫族能将情绪转化为武装能量。玩家将扮演调查官，带领性格各异的猫娘战士对抗情绪暴走危机！▶️ 剧情亮点‌动态漫画式过场动画，全语音剧情（钉宫理惠、花泽香菜等一线声优）多分支结局设计，你的选择将影响猫娘命运昼夜循环系统：白天探索城市，夜间触发猫灵特殊能力🎮 核心玩法：策略与卡牌的完美融合‌1️⃣ 卡牌战斗系统‌机制\t说明\t示例星级合体‌\t拖动同属性卡牌叠加强化\t2张电音骑士卡→3星雷暴猫灵形态‌\t战斗中切换猫形规避攻击\t积攒SP释放必杀技环境互动‌\t击破场景元素造成额外伤害\t广告牌坠落→区域坍塌2️⃣ 多维养成体系‌角色突破‌：收集碎片解锁新形态装备锻造‌：定制赛博义肢与情绪武装好感度系统‌：通过猫屋互动解锁隐藏剧情3️⃣ 特色玩法矩阵‌主线剧情‌：动态漫画式过场，多分支结局深渊探索‌：Roguelike随机迷宫竞技场‌",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020109
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-113",
+    "title": "Trails in the Sky 2nd Chapter",
+    "slug": "trails-in-the-sky-2nd-chapter",
+    "developer": "",
+    "publisher": "",
+    "releaseDate": "2026-09-17",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Switch"
+    ],
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演"
+    ],
+    "tags": [],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/2be/2be279f15824d0dfdb1c1499569e4e6f.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Turn the page on the explosive 2nd chapter of Nihon Falcom’s legendary Trails saga! Estelle Bright sets out on a new journey across Liberl to uncover the truth behind Joshua’s disappearance and defeat the sinister Ouroboros organization.",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1017960
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-114",
+    "title": "I Have Known You",
+    "slug": "i-have-known-you",
+    "developer": "Dotty Diaries",
+    "publisher": "Dotty Diaries",
+    "releaseDate": "2026-09-17",
+    "releaseDateTBD": false,
+    "platforms": [
+      "Linux",
+      "PC",
+      "macOS"
+    ],
+    "genres": [],
+    "tags": [
+      "Mystery",
+      "Story",
+      "Drama",
+      "Romance",
+      "secrets",
+      "work",
+      "history",
+      "love",
+      "adult",
+      "Aventure"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/601/60161283016aef64fc1bb9f3593ecb08.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "I Have Known You is an adult visual novel in which you play as a man returning to his hometown of Wildflower.\nBut when you arrive, the town where you grew up doesn’t feel the same anymore.\n\nOld friendships now carry unspoken tension. Familiar faces awaken feelings you thought you had buried. New relationships begin with lingering looks, dangerous curiosity, and desires that become harder to ignore.\n\nYou came back hoping for peace… but instead, you find yourself caught between love, guilt, and a ",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019729
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-115",
+    "title": "Busty Beast-Ear Airi's Hentai Escape",
+    "slug": "busty-beast-ear-airis-hentai-escape",
+    "developer": "でぃぱるちゃ",
+    "publisher": "072 Project",
+    "releaseDate": "2026-09-17",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "角色扮演",
+      "休闲",
+      "独立"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Steam Cloud",
+      "RPG",
+      "2D",
+      "Fantasy",
+      "Exploration",
+      "Stealth",
+      "Anime",
+      "Nudity"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/ae8/ae848f0a64f60003cfaf59c9560e7198.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "■ Story OverviewAiri, a beast-girl living in a remote mountain village,was bathing by the river as usual.But the Bandits suddenly appeared and dragged her to their base…Can she escape and reclaim her freedom?■ Game HighlightsA no-combat short game where the goal is to help a busty beast-girl escape successfully!Captured by Bandits and taken to their base,the beast-girl Airi must escape while enduring relentless violation\nin this thrilling no-combat escape game!Perfect for a relaxed jerking sessi",
+    "website": "https://072project.com/?source=steam_kemonomimi&amp;utm_source=steam&amp;utm_medium=kemonomimi&amp;utm_campaign=store_link",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020038
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-116",
+    "title": "Goddess of Fate: Waifu Strategy RPG",
+    "slug": "goddess-of-fate-waifu-strategy-rpg",
+    "developer": "TIPU Games",
+    "publisher": "TIPU Games",
+    "releaseDate": "2026-09-18",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "角色扮演",
+      "策略",
+      "休闲"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "RPG",
+      "Co-op",
+      "Story Rich",
+      "Online Co-Op",
+      "Female Protagonist",
+      "Free to Play",
+      "PvP",
+      "Anime"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/f16/f16bd1f70b789adacf571938f1ec7928.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "100+ anime goddesses are waiting for you! Goddess of Fate is a free-to-play anime strategy RPG where you collect your favorite waifus, build a six-girl squad, master tactical formations, and fight through spectacular 6v6 battles.Recruit new heroines, develop your favorites, discover their stories, and experiment with powerful team combinations.Collect the girls you love. Build your dream squad. Challenge your fate.💖 100+ Goddesses × Anime RPGEnter a world filled with 100+ beautifully illustrated",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020111
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-117",
+    "title": "Graveyard Keeper 2",
+    "slug": "graveyard-keeper-2",
+    "developer": "Lazy Bear Games",
+    "publisher": "tinyBuild",
+    "releaseDate": "2026-09-21",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "Medieval",
+      "Story",
+      "battle",
+      "city",
+      "weapons",
+      "build",
+      "Automation",
+      "army",
+      "Aventure",
+      "apocalypse"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/83c/83c07c37053d0d4663a1ed9b6d75ac64.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "You are the Grand Inquisitor now! Restore the Town and lead your undead army into battle to save the realm from a zombie apocalypse. Welcome to Graveyard Keeper 2 - the sequel to the original, unhinged classic!\n\nManage your own medieval graveyard\nAutomate your production like never before\nLead your zombie army into battle and fortify the Town against the undead\nRebuild The Town and milk its residents for maximum profits\nA world full of unhinged humour, grotesque characters and a twisted story\n\n\n",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020112
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-118",
+    "title": "The Grave Deal",
+    "slug": "the-grave-deal",
+    "developer": "Lazy Bear Games",
+    "publisher": "tinyBuild",
+    "releaseDate": "2026-09-21",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "death",
+      "Automation",
+      "Aventure",
+      "bundle",
+      "business",
+      "grow",
+      "town",
+      "graveyard"
+    ],
+    "status": "released",
+    "cover": "https://media.rawg.io/media/screenshots/599/5998216bd4ba0e1d3ea02652f5765adb.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Running a graveyard is already a bad enough idea. Doing it twice is commitment.\nThe Graveyard Keeper Franchise Bundle includes Graveyard Keeper and Graveyard Keeper 2, with more corpses, more questionable decisions, more automation, and even more ways to turn death into a business.\n\nThe \"grave deal\"  includes:\nGraveyard Keeper\nBury the dead, manage the living, and discover how flexible morality can become when there’s money to be made.\nGraveyard Keeper 2\nGrow the operation with larger production",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020133
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-03"
+      }
+    },
+    "lastUpdated": "2026-10-03"
   }
 ]

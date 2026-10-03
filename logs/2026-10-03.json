@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-03",
+  "month": "2026-09",
+  "stats": {
+    "candidates_total": 50,
+    "filtered_out": 2,
+    "duplicates": 0,
+    "final_new_games": 48
+  },
+  "added": [
+    {
+      "id": "game-071",
+      "title": "Salt & Schooners",
+      "releaseDate": "2026-09-01",
+      "steamAppId": null
+    },
+    {
+      "id": "game-072",
+      "title": "[Bober Bros] Last Pill Bar",
+      "releaseDate": "2026-09-01",
+      "steamAppId": null
+    },
+    {
+      "id": "game-073",
+      "title": "Galactic Prospectors",
+      "releaseDate": "2026-09-02",
+      "steamAppId": null
+    },
+    {
+      "id": "game-074",
+      "title": "RonkBonk",
+      "releaseDate": "2026-09-02",
+      "steamAppId": null
+    },
+    {
+      "id": "game-075",
+      "title": "Bara Blood - The Crimson Heir",
+      "releaseDate": "2026-09-02",
+      "steamAppId": null
+    },
+    {
+      "id": "game-076",
+      "title": "Scarlet Skips",
+      "releaseDate": "2026-09-03",
+      "steamAppId": null
+    },
+    {
+      "id": "game-077",
+      "title": "The Blood Of Dawnwalker",
+      "releaseDate": "2026-09-03",
+      "steamAppId": null
+    },
+    {
+      "id": "game-078",
+      "title": "Twister City",
+      "releaseDate": "2026-09-03",
+      "steamAppId": null
+    },
+    {
+      "id": "game-079",
+      "title": "Asdivine Knot",
+      "releaseDate": "2026-09-03",
+      "steamAppId": null
+    },
+    {
+      "id": "game-080",
+      "title": "Hockey Beasts",
+      "releaseDate": "2026-09-04",
+      "steamAppId": null
+    },
+    {
+      "id": "game-081",
+      "title": "Onimusha: Way Of The Sword",
+      "releaseDate": "2026-09-04",
+      "steamAppId": null
+    },
+    {
+      "id": "game-082",
+      "title": "Vale Primordial",
+      "releaseDate": "2026-09-04",
+      "steamAppId": null
+    },
+    {
+      "id": "game-083",
+      "title": "挂机吧三国",
+      "releaseDate": "2026-09-04",
+      "steamAppId": null
+    },
+    {
+      "id": "game-084",
+      "title": "DIRTY VAMPIRES",
+      "releaseDate": "2026-09-04",
+      "steamAppId": null
+    },
+    {
+      "id": "game-085",
+      "title": "Hentai Tales: Training & Subjugation Café",
+      "releaseDate": "2026-09-04",
+      "steamAppId": null
+    },
+    {
+      "id": "game-086",
+      "title": "Flip-Off",
+      "releaseDate": "2026-09-04",
+      "steamAppId": null
+    },
+    {
+      "id": "game-087",
+      "title": "BULK (2026)",
+      "releaseDate": "2026-09-04",
+      "steamAppId": null
+    },
+    {
+      "id": "game-088",
+      "title": "Dataminers",
+      "releaseDate": "2026-09-06",
+      "steamAppId": null
+    },
+    {
+      "id": "game-089",
+      "title": "Splatter Piece",
+      "releaseDate": "2026-09-07",
+      "steamAppId": null
+    },
+    {
+      "id": "game-090",
+      "title": "Undying Flame",
+      "releaseDate": "2026-09-08",
+      "steamAppId": null
+    },
+    {
+      "id": "game-091",
+      "title": "Halloween: The Game",
+      "releaseDate": "2026-09-08",
+      "steamAppId": null
+    },
+    {
+      "id": "game-092",
+      "title": "Magical Blush",
+      "releaseDate": "2026-09-09",
+      "steamAppId": null
+    },
+    {
+      "id": "game-093",
+      "title": "TAMA JIGOKU",
+      "releaseDate": "2026-09-09",
+      "steamAppId": null
+    },
+    {
+      "id": "game-094",
+      "title": "Valheim",
+      "releaseDate": "2026-09-09",
+      "steamAppId": null
+    },
+    {
+      "id": "game-095",
+      "title": "LED HEARTS",
+      "releaseDate": "2026-09-09",
+      "steamAppId": null
+    },
+    {
+      "id": "game-096",
+      "title": "The Alighieri Circle: Dante's Bloodline",
+      "releaseDate": "2026-09-09",
+      "steamAppId": null
+    },
+    {
+      "id": "game-097",
+      "title": "King Quest",
+      "releaseDate": "2026-09-10",
+      "steamAppId": null
+    },
+    {
+      "id": "game-098",
+      "title": "Gun Shop 3",
+      "releaseDate": "2026-09-11",
+      "steamAppId": null
+    },
+    {
+      "id": "game-099",
+      "title": "SEX POLICE",
+      "releaseDate": "2026-09-11",
+      "steamAppId": null
+    },
+    {
+      "id": "game-100",
+      "title": "Backrooms: The Entity",
+      "releaseDate": "2026-09-12",
+      "steamAppId": null
+    },
+    {
+      "id": "game-101",
+      "title": "Warcraft III: Reforged - Forsaken Kingdom",
+      "releaseDate": "2026-09-12",
+      "steamAppId": null
+    },
+    {
+      "id": "game-102",
+      "title": "Sigilfarer Bundle",
+      "releaseDate": "2026-09-13",
+      "steamAppId": null
+    },
+    {
+      "id": "game-103",
+      "title": "Dunebound Tactics",
+      "releaseDate": "2026-09-13",
+      "steamAppId": null
+    },
+    {
+      "id": "game-104",
+      "title": "Sigilfarer: A Dice-Rolling Roguelite",
+      "releaseDate": "2026-09-13",
+      "steamAppId": null
+    },
+    {
+      "id": "game-105",
+      "title": "HOPE 01",
+      "releaseDate": "2026-09-14",
+      "steamAppId": null
+    },
+    {
+      "id": "game-106",
+      "title": "Hunting Pro Simulator",
+      "releaseDate": "2026-09-14",
+      "steamAppId": null
+    },
+    {
+      "id": "game-107",
+      "title": "Woodo",
+      "releaseDate": "2026-09-15",
+      "steamAppId": null
+    },
+    {
+      "id": "game-108",
+      "title": "스페셜포스 리마스터",
+      "releaseDate": "2026-09-16",
+      "steamAppId": null
+    },
+    {
+      "id": "game-109",
+      "title": "Mage Fight",
+      "releaseDate": "2026-09-16",
+      "steamAppId": null
+    },
+    {
+      "id": "game-110",
+      "title": "PATLABOR the Case Files",
+      "releaseDate": "2026-09-16",
+      "steamAppId": null
+    },
+    {
+      "id": "game-111",
+      "title": "Aniimo",
+      "releaseDate": "2026-09-16",
+      "steamAppId": null
+    },
+    {
+      "id": "game-112",
+      "title": "零域都市：猫娘编队",
+      "releaseDate": "2026-09-17",
+      "steamAppId": null
+    },
+    {
+      "id": "game-113",
+      "title": "Trails in the Sky 2nd Chapter",
+      "releaseDate": "2026-09-17",
+      "steamAppId": null
+    },
+    {
+      "id": "game-114",
+      "title": "I Have Known You",
+      "releaseDate": "2026-09-17",
+      "steamAppId": null
+    },
+    {
+      "id": "game-115",
+      "title": "Busty Beast-Ear Airi's Hentai Escape",
+      "releaseDate": "2026-09-17",
+      "steamAppId": null
+    },
+    {
+      "id": "game-116",
+      "title": "Goddess of Fate: Waifu Strategy RPG",
+      "releaseDate": "2026-09-18",
+      "steamAppId": null
+    },
+    {
+      "id": "game-117",
+      "title": "Graveyard Keeper 2",
+      "releaseDate": "2026-09-21",
+      "steamAppId": null
+    },
+    {
+      "id": "game-118",
+      "title": "The Grave Deal",
+      "releaseDate": "2026-09-21",
+      "steamAppId": null
+    }
+  ],
+  "removed": [
+    {
+      "title": "Alien Breed 35th Anniversary Demo",
+      "reason": "title_contains_demo"
+    },
+    {
+      "title": "Gently Packed Demo",
+      "reason": "title_contains_demo"
+    }
+  ],
+  "duplicates": [],
+  "releaseDateChanges": [],
+  "statusChanges": [],
+  "potentialConflicts": []
+}
