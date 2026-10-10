@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-10",
+  "month": "2026-11",
+  "stats": {
+    "candidates_total": 5,
+    "filtered_out": 0,
+    "duplicates": 0,
+    "final_new_games": 5
+  },
+  "added": [
+    {
+      "id": "game-119",
+      "title": "Project Afterfall",
+      "releaseDate": "2026-11-02",
+      "steamAppId": null
+    },
+    {
+      "id": "game-120",
+      "title": "Underkeep",
+      "releaseDate": "2026-11-04",
+      "steamAppId": null
+    },
+    {
+      "id": "game-121",
+      "title": "After the Wane",
+      "releaseDate": "2026-11-09",
+      "steamAppId": null
+    },
+    {
+      "id": "game-122",
+      "title": "Warhammer Survivors",
+      "releaseDate": "2026-11-09",
+      "steamAppId": null
+    },
+    {
+      "id": "game-123",
+      "title": "Space Station Designer",
+      "releaseDate": "2026-11-17",
+      "steamAppId": null
+    }
+  ],
+  "removed": [],
+  "duplicates": [],
+  "releaseDateChanges": [],
+  "statusChanges": [],
+  "potentialConflicts": []
+}
