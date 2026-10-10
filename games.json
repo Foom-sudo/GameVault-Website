@@ -5868,5 +5868,332 @@
       }
     },
     "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-119",
+    "title": "Project Afterfall",
+    "slug": "project-afterfall",
+    "developer": "MuHa Games",
+    "publisher": "MuHa Games",
+    "releaseDate": "2026-11-02",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "RPG",
+      "Fantasy",
+      "Survival",
+      "combat",
+      "Building",
+      "Story",
+      "Roguelite",
+      "battle",
+      "character",
+      "party"
+    ],
+    "status": "coming-soon",
+    "cover": "https://media.rawg.io/media/screenshots/f75/f759c46190eff24d83a72fa4f76aa55a.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "A dark turn-based strategy-survival RPG blending retro-futuristic urban fantasy with Slavic folklore.\n\nProject Afterfall is a spin-off set in the universe of Thea: The Awakening and Thea 2: The Shattering, a thousand years later in a very different, urban age.\n\nCustomise your characters’ gender, class, and race, and recruit NPC allies to explore the wastelands of Thea, rebuild your colony, and engage in tactical card-based combat. Experience branching narratives and character progression, where ",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020430
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      }
+    },
+    "lastUpdated": "2026-10-10"
+  },
+  {
+    "id": "game-120",
+    "title": "Underkeep",
+    "slug": "underkeep",
+    "developer": "Rake in Grass",
+    "publisher": "Rake in Grass",
+    "releaseDate": "2026-11-04",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "Exploration",
+      "Space",
+      "combat",
+      "Story",
+      "party",
+      "secrets",
+      "ancient",
+      "school",
+      "room",
+      "Aventure"
+    ],
+    "status": "coming-soon",
+    "cover": "https://media.rawg.io/media/screenshots/b9a/b9a4c752f9d75ab908061b2287ca4700.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "DESCEND. EXPLORE. SURVIVE.\n\nUnderkeep is a loving tribute to the role-playing classics of the 90s with turn-based combat and grid-based movement, bringing the best of old-school dungeon crawlers to the modern era.\n\n\nUnderkeep brings back the spirit of classic dungeon crawlers: grid movement, slow tension and tactical combat. At the same time it plays clean and responsive thanks to modern controls, clear visuals and thoughtful conveniences that remove the old frustrations without losing the heart",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020130
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      }
+    },
+    "lastUpdated": "2026-10-10"
+  },
+  {
+    "id": "game-121",
+    "title": "After the Wane",
+    "slug": "after-the-wane",
+    "developer": "Nova-box",
+    "publisher": "Nova-box",
+    "releaseDate": "2026-11-09",
+    "releaseDateTBD": false,
+    "platforms": [
+      "Linux",
+      "PC",
+      "macOS"
+    ],
+    "genres": [],
+    "tags": [
+      "Story",
+      "Music",
+      "Soundtrack",
+      "nature",
+      "Dreams",
+      "dance",
+      "Aventure",
+      "choices",
+      "child",
+      "community"
+    ],
+    "status": "coming-soon",
+    "cover": "https://media.rawg.io/media/screenshots/836/836e2d2968195f59425b2716f3570e4a.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "After the Wane DEMO is available\nhere.\n\n\nThe new interactive graphic novel by the creators of Along the Edge and Across the Grooves.\n\nLena is a starry-eyed young dancer with big dreams, but as soon as she sets foot in the capital, she finds herself at the nexus of a lifelong quarrel between Fernand, the elusive director of a community center, and Deborah, who's leading the troupe of a strange and exclusive theatre. Does it have anything to do with her mother, a dancer too, who abandoned her when",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019919
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      }
+    },
+    "lastUpdated": "2026-10-10"
+  },
+  {
+    "id": "game-122",
+    "title": "Warhammer Survivors",
+    "slug": "warhammer-survivors",
+    "developer": "Auroch Digital",
+    "publisher": "Auroch Digital",
+    "releaseDate": "2026-11-09",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "Survival",
+      "Dark",
+      "Space",
+      "War",
+      "Epic",
+      "weapons",
+      "secrets",
+      "Monsters",
+      "Vampire",
+      "death"
+    ],
+    "status": "coming-soon",
+    "cover": "https://media.rawg.io/media/screenshots/bb7/bb7fca4136eccec5e2e82b8a19849489.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "The addictive bullet-heaven action of the survivors genre comes to the 41st Millennium and the Mortal Realms in an officially licensed game from Auroch Digital (Warhammer 40,000: Boltgun) in partnership with Warhammer and poncle (Vampire Survivors).\nExperience Warhammer’s epic champions, enemies, weapons and more, meticulously handcrafted in animated pixel glory.\n\n- Frenetic Bullet Heaven survival in a grim dark setting\n- Over 40 iconic playable characters from the Warhammer 40,000 and Warhammer",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1020421
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      }
+    },
+    "lastUpdated": "2026-10-10"
+  },
+  {
+    "id": "game-123",
+    "title": "Space Station Designer",
+    "slug": "space-station-designer",
+    "developer": "Polar Motion",
+    "publisher": "Slitherine",
+    "releaseDate": "2026-11-17",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "Exploration",
+      "Space",
+      "Management",
+      "Economy",
+      "city",
+      "work",
+      "build",
+      "balance",
+      "transportation",
+      "Stratégie"
+    ],
+    "status": "coming-soon",
+    "cover": "https://media.rawg.io/media/screenshots/53c/53ca443f2fb80f24ecec21d4b21a9f2b.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Space Station Designer is a construction and management game where you become the CEO of a private aerospace company, in charge of creating and operating a thriving network of orbital outposts.\n\nBegin with a single core module in Low Earth orbit and gradually extend your operations into higher Earth and Lunar orbits. Design self-sustaining stations, manage astronauts and logistics, unlock advanced technologies, and help shape humanity’s space economy.\n\nYour ultimate ambition? Construct and opera",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019738
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-10-10"
+      }
+    },
+    "lastUpdated": "2026-10-10"
   }
 ]
