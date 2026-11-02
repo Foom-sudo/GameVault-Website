@@ -5868,5 +5868,521 @@
       }
     },
     "lastUpdated": "2026-10-03"
+  },
+  {
+    "id": "game-119",
+    "title": "Beautiful Light",
+    "slug": "beautiful-light",
+    "developer": "",
+    "publisher": "",
+    "releaseDate": "2026-12-01",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "射击",
+      "策略",
+      "独立"
+    ],
+    "tags": [],
+    "status": "coming-soon",
+    "cover": "https://media.rawg.io/media/screenshots/3c5/3c511506ba31902bbdcbf963219ef77c.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Beautiful Light, a PvPvPvE tactical first-person extraction shooter where 6 squads of 3 operators are tasked with entering, securing, and extracting an artifact in a hostile, horrific environment. Face other operators and player-controlled anomalies, but beware: mistakes can risk your life and gear.",
+    "website": "https://x.com/BeautifulLght",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 998661
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      }
+    },
+    "lastUpdated": "2026-11-02"
+  },
+  {
+    "id": "game-120",
+    "title": "SOMBRAS: negative frames",
+    "slug": "sombras-negative-frames",
+    "developer": "Maboroshi Artworks",
+    "publisher": "Entalto Publishing",
+    "releaseDate": "2026-12-02",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "tags": [
+      "Horror",
+      "Dark",
+      "secrets",
+      "night",
+      "light",
+      "photography",
+      "Aventure",
+      "elements",
+      "girls",
+      "town"
+    ],
+    "status": "coming-soon",
+    "cover": "https://media.rawg.io/media/screenshots/c27/c27aaf1ec5a4156cf93b906f29bb34a3.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "‘SOMBRAS: negative frames’ is a nostalgic narrative game with light horror elements and an engaging photography system exploring themes of youth, art, mixed identity, and dysfunctional family systems.\nShiomi Alterio, a Japanese-Spanish photography student, lives with her father in a quaint Japanese town after her parents’ recent divorce, far from the life in Europe she was forced to leave behind.\n\nOne night, Shiomi is engulfed by a dark dimension made of familiar streets, hungry shadows, and a c",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1019381
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      }
+    },
+    "lastUpdated": "2026-11-02"
+  },
+  {
+    "id": "game-121",
+    "title": "Cronos: Lazarus",
+    "slug": "cronos-lazarus",
+    "developer": "Bloober Team",
+    "publisher": "Bloober Team",
+    "releaseDate": "2026-12-03",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series S/X"
+    ],
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "tags": [],
+    "status": "coming-soon",
+    "cover": "https://media.rawg.io/media/screenshots/931/9310c67fb825c90ff9f992c7795c119c.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Cronos: Lazarus is a brutal new chapter to the Cronos: The New Dawn story. Step into the boots of the Warden and experience a faster, more aggressive style of combat as you fight to complete a mission the Collective must never uncover.",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1018110
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      }
+    },
+    "lastUpdated": "2026-11-02"
+  },
+  {
+    "id": "game-122",
+    "title": "Rayman Legends Retold",
+    "slug": "rayman-legends-retold",
+    "developer": "Ubisoft Montpellier, Ubisoft Milan",
+    "publisher": "Ubisoft Entertainment",
+    "releaseDate": "2026-12-03",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series S/X"
+    ],
+    "genres": [
+      "平台跳跃"
+    ],
+    "tags": [],
+    "status": "coming-soon",
+    "cover": "https://media.rawg.io/media/games/ed9/ed92bdc98d563301e94ae3e9663e8107.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Rayman Legends Retold reimagines the beloved platformer with stunning 3D visuals, a brand‑new world, Kung Foot, and legendary co‑op fun.",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1018059
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      }
+    },
+    "lastUpdated": "2026-11-02"
+  },
+  {
+    "id": "game-123",
+    "title": "Guns of Eschaton",
+    "slug": "guns-of-eschaton",
+    "developer": "",
+    "publisher": "4Divinity",
+    "releaseDate": "2026-12-08",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series S/X"
+    ],
+    "genres": [
+      "动作",
+      "射击"
+    ],
+    "tags": [],
+    "status": "coming-soon",
+    "cover": "https://media.rawg.io/media/games/b03/b03195ee349fdfe45e12a0352adb3162.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "The world’s first soulslike FPS pulls you into an apocalyptic Western by the legendary Viktor Antonov: a land of dust, blood, and horror. Study your enemies, count your bullets, forge your own style with gunpowder and prayers. Solo or in co-op—go West, gunslinger, go West and die with the country!",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1018409
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      }
+    },
+    "lastUpdated": "2026-11-02"
+  },
+  {
+    "id": "game-124",
+    "title": "Path of Exile 2",
+    "slug": "path-of-exile-2",
+    "developer": "Grinding Gear Games",
+    "publisher": "Grinding Gear Games",
+    "releaseDate": "2026-12-11",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "动作",
+      "冒险",
+      "角色扮演",
+      "大型多人在线"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Full controller support",
+      "RPG",
+      "Co-op",
+      "Horror",
+      "Online Co-Op",
+      "Free to Play",
+      "Action RPG",
+      "Early Access"
+    ],
+    "status": "coming-soon",
+    "cover": "https://media.rawg.io/media/games/401/4010e56adceb7db58ba42d1189796d5e.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "Path of Exile 2 is a new seven-act storyline that is available alongside the original Path of Exile 1 campaign. ... Path of Exile 2 retains all expansion content that has been created over the last six years and introduces a new skill system, ascendancy classes, engine improvements and more.",
+    "website": "https://www.pathofexile.com/exilecon/one",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 391403
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      }
+    },
+    "lastUpdated": "2026-11-02"
+  },
+  {
+    "id": "game-125",
+    "title": "They Come in Fives",
+    "slug": "they-come-in-fives",
+    "developer": "FromZero_",
+    "publisher": "FromZero_",
+    "releaseDate": "2026-12-16",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC"
+    ],
+    "genres": [
+      "策略",
+      "卡牌"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Atmospheric",
+      "Story Rich",
+      "2D",
+      "Tactical",
+      "Mystery",
+      "Roguelike",
+      "Roguelite",
+      "Dungeon Crawler"
+    ],
+    "status": "coming-soon",
+    "cover": "https://media.rawg.io/media/games/69f/69f16f2f13fdb39e5efba2fc5528d026.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "They Come in Fives is a story-rich collectible card game with a dark, slightly horror-inspired atmosphere, set in a world where urban legends turn into devilish contracts.\nYou are the Reaper, working on Lucifer’s payroll. Souls go down, bodies stay to fight for you. With each call answered, you build an army of agents, aiming to overthrow the boss and claim his throne.\nChoose your descent\nOn Earth, you explore modern myths and urban legends: uncovering government experiments and corporate secret",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 1012187
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      }
+    },
+    "lastUpdated": "2026-11-02"
+  },
+  {
+    "id": "game-126",
+    "title": "Prince of Persia: The Sands of Time Remake",
+    "slug": "prince-of-persia-the-sands-of-time-remake",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft Entertainment",
+    "releaseDate": "2026-12-31",
+    "releaseDateTBD": false,
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Xbox Series S/X"
+    ],
+    "genres": [
+      "动作"
+    ],
+    "tags": [
+      "Classic",
+      "Remake"
+    ],
+    "status": "coming-soon",
+    "cover": "https://media.rawg.io/media/games/b92/b92b55aeab9ed1777104f71f4b22a613.jpg",
+    "coverColors": [
+      "#1a1f2b",
+      "#2a3040"
+    ],
+    "description": "The Prince has returned! Experience the classic tale that redefined action-adventure gaming in this full-scale remake for a new generation.\n\n- You are the Prince of Persia. Embark on a journey to save your kingdom from the treacherous Vizier.\n- Master the Sands of Time and use your dagger to reverse, accelerate, freeze, and slow time itself.\n- Fight cursed enemies and solve puzzles along the way.\n- Experience incredible graphical enhancements and re-designed gameplay mechanics.\n- Unlock Prince o",
+    "website": "",
+    "externalIds": {
+      "steamAppId": null,
+      "rawgId": 490430
+    },
+    "storeLinks": {},
+    "fieldSources": {
+      "title": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "developer": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "publisher": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "releaseDate": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "genres": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "description": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      },
+      "cover": {
+        "source": "rawg",
+        "checkedAt": "2026-11-02"
+      }
+    },
+    "lastUpdated": "2026-11-02"
   }
 ]

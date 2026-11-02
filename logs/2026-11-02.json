@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-02",
+  "month": "2026-12",
+  "stats": {
+    "candidates_total": 8,
+    "filtered_out": 0,
+    "duplicates": 0,
+    "final_new_games": 8
+  },
+  "added": [
+    {
+      "id": "game-119",
+      "title": "Beautiful Light",
+      "releaseDate": "2026-12-01",
+      "steamAppId": null
+    },
+    {
+      "id": "game-120",
+      "title": "SOMBRAS: negative frames",
+      "releaseDate": "2026-12-02",
+      "steamAppId": null
+    },
+    {
+      "id": "game-121",
+      "title": "Cronos: Lazarus",
+      "releaseDate": "2026-12-03",
+      "steamAppId": null
+    },
+    {
+      "id": "game-122",
+      "title": "Rayman Legends Retold",
+      "releaseDate": "2026-12-03",
+      "steamAppId": null
+    },
+    {
+      "id": "game-123",
+      "title": "Guns of Eschaton",
+      "releaseDate": "2026-12-08",
+      "steamAppId": null
+    },
+    {
+      "id": "game-124",
+      "title": "Path of Exile 2",
+      "releaseDate": "2026-12-11",
+      "steamAppId": null
+    },
+    {
+      "id": "game-125",
+      "title": "They Come in Fives",
+      "releaseDate": "2026-12-16",
+      "steamAppId": null
+    },
+    {
+      "id": "game-126",
+      "title": "Prince of Persia: The Sands of Time Remake",
+      "releaseDate": "2026-12-31",
+      "steamAppId": null
+    }
+  ],
+  "removed": [],
+  "duplicates": [],
+  "releaseDateChanges": [],
+  "statusChanges": [],
+  "potentialConflicts": []
+}
