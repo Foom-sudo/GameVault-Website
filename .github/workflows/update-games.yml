@@ -6,9 +6,6 @@
 name: Update Games Data
 
 on:
-  schedule:
-    # 每天 UTC 02:17 运行（避开整点高峰）
-    - cron: '17 2 * * *'
   workflow_dispatch:
     inputs:
       month:
